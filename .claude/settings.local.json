@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(for skill in extract-chapters prepare-casting attribute-dialogue split-scenes build-segments generate-tts-audio postprocess-audio package-release)",
+      "Bash(do mkdir:*)",
+      "Bash(done)",
+      "Bash(python:*)",
+      "Bash(ls:*)",
+      "Skill(extract-chapters)",
+      "Bash(python3:*)",
+      "Bash(chmod:*)",
+      "Skill(attribute-dialogue)",
+      "Skill(prepare-casting)"
+    ]
+  }
+}

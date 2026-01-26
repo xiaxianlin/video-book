@@ -1,0 +1,69 @@
+{
+  "total_assignments": 8,
+  "voice_assignments": [
+    {
+      "character_id": "narrator",
+      "character_name": "旁白",
+      "voice_id": "Chinese (Mandarin)_Male_Announcer",
+      "voice_name": "播报男声",
+      "role": "narrator",
+      "reason": "富有磁性的中年男性播报员声音，标准普通话，清晰而权威，适合叙述故事"
+    },
+    {
+      "character_id": "char_001",
+      "character_name": "周启明",
+      "voice_id": "male-qn-badao-jingpin",
+      "voice_name": "霸道青年音色-beta",
+      "role": "protagonist",
+      "reason": "男主角，青年男性，性格自信霸道但后期脆弱，使用高质量霸道青年音色"
+    },
+    {
+      "character_id": "char_002",
+      "character_name": "沈知夏",
+      "voice_id": "female-chengshu-jingpin",
+      "voice_name": "成熟女性音色-beta",
+      "role": "protagonist",
+      "reason": "女主角，职业女性，冷静理性专业，使用成熟女性音色"
+    },
+    {
+      "character_id": "char_003",
+      "character_name": "赵建成",
+      "voice_id": "Chinese (Mandarin)_Reliable_Executive",
+      "voice_name": "沉稳高管",
+      "role": "supporting",
+      "reason": "公司老板，中年男性，沉稳可靠有权威感"
+    },
+    {
+      "character_id": "char_004",
+      "character_name": "李桂芳",
+      "voice_id": "Chinese (Mandarin)_Kind-hearted_Antie",
+      "voice_name": "热心大婶",
+      "role": "supporting",
+      "reason": "周启明的母亲，中年女性，强势但关心儿子"
+    },
+    {
+      "character_id": "char_005",
+      "character_name": "陈涛",
+      "voice_id": "male-qn-daxuesheng-jingpin",
+      "voice_name": "青年大学生音色-beta",
+      "role": "supporting",
+      "reason": "周启明的同事，青年男性，圆滑谨慎"
+    },
+    {
+      "character_id": "char_006",
+      "character_name": "王海生",
+      "voice_id": "Chinese (Mandarin)_Gentleman",
+      "voice_name": "温润男声",
+      "role": "minor",
+      "reason": "医院采购科长，中年男性，表面温和实则官僚"
+    },
+    {
+      "character_id": "char_007",
+      "character_name": "林哥",
+      "voice_id": "Chinese (Mandarin)_Unrestrained_Young_Man",
+      "voice_name": "不羁青年",
+      "role": "minor",
+      "reason": "周启明的朋友，青年男性，有江湖气息"
+    }
+  ]
+}

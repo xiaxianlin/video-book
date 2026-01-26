@@ -1,0 +1,35 @@
+{
+  "project": {
+    "name": "audiobook_project",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "input_dir": "input",
+    "config_dir": "config",
+    "build_dir": "build",
+    "release_dir": "release"
+  },
+  "segment": {
+    "target_duration_seconds": 75,
+    "strict_speaker_separation": true,
+    "emotion_intensity": "low"
+  },
+  "tts": {
+    "provider": "openai",
+    "model": "gpt-4o-mini-tts",
+    "api_endpoint": "/v1/audio/speech",
+    "output_format": "wav",
+    "retry_attempts": 3,
+    "retry_delay_seconds": 2
+  },
+  "audio_processing": {
+    "silence_start_ms": 200,
+    "silence_end_ms": 300,
+    "target_lufs": -18,
+    "true_peak_dbtp": -1.0,
+    "mp3_bitrate": "192k",
+    "mp3_channels": "mono"
+  },
+  "characters": {},
+  "voice_mapping": {}
+}

@@ -1,0 +1,126 @@
+{
+  "total_chapters": 10,
+  "attribution_date": "2026-01-26T09:12:34Z",
+  "attribution_method": "ai_driven_manual",
+  "chapters": [
+    {
+      "chapter_id": "ch_001",
+      "chapter_number": 1,
+      "title": "离婚证到手",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker_id": "narrator",
+          "text": "离婚证拿在手里那一刻，周启明第一反应是爽。",
+          "word_count": 21,
+          "segment_id": "ch_001_seg_001"
+        },
+        {
+          "type": "narration",
+          "speaker_id": "narrator",
+          "text": "他站在民政局门口，太阳刺得人睁不开眼。他把红本塞进公文包里，抬手拍了张天空，不拍证不拍人，配文四个字：",
+          "word_count": 52,
+          "segment_id": "ch_001_seg_002a"
+        },
+        {
+          "type": "dialogue",
+          "speaker_id": "char_001",
+          "speaker_name": "周启明",
+          "text": "重新开始。",
+          "word_count": 5,
+          "segment_id": "ch_001_seg_002b",
+          "emotion": "relieved",
+          "context": "social_media_post"
+        },
+        {
+          "type": "narration",
+          "speaker_id": "narrator",
+          "text": "不到一分钟，点赞和恭喜就堆上来了。",
+          "word_count": 17,
+          "segment_id": "ch_001_seg_003"
+        },
+        {
+          "type": "dialogue",
+          "speaker_id": "social_media",
+          "speaker_name": "朋友圈评论",
+          "text": "明哥自由了！",
+          "word_count": 6,
+          "segment_id": "ch_001_seg_004",
+          "emotion": "excited",
+          "context": "social_media_comment"
+        },
+        {
+          "type": "dialogue",
+          "speaker_id": "social_media",
+          "speaker_name": "朋友圈评论",
+          "text": "恭喜脱离苦海！",
+          "word_count": 7,
+          "segment_id": "ch_001_seg_005",
+          "emotion": "congratulatory",
+          "context": "social_media_comment"
+        },
+        {
+          "type": "dialogue",
+          "speaker_id": "social_media",
+          "speaker_name": "朋友圈评论",
+          "text": "晚上出来喝一个？",
+          "word_count": 8,
+          "segment_id": "ch_001_seg_006",
+          "emotion": "friendly",
+          "context": "social_media_comment"
+        },
+        {
+          "type": "narration",
+          "speaker_id": "narrator",
+          "text": "周启明盯着屏幕笑，像一场仗打赢了。离婚这事，只要别人替你叫好，你就不会怀疑自己是不是输。",
+          "word_count": 44,
+          "segment_id": "ch_001_seg_007"
+        },
+        {
+          "type": "narration",
+          "speaker_id": "narrator",
+          "text": "手机又震了一下，是母亲李桂芳的语音，点开就炸：",
+          "word_count": 21,
+          "segment_id": "ch_001_seg_008a"
+        },
+        {
+          "type": "dialogue",
+          "speaker_id": "char_004",
+          "speaker_name": "李桂芳",
+          "text": "办完了吧？我跟你说，离了就离了，别心软！女人一旦拿捏住你，你这辈子就完了。你记住，房子首付是你出的，她凭什么——",
+          "word_count": 60,
+          "segment_id": "ch_001_seg_008b",
+          "emotion": "angry",
+          "context": "voice_message"
+        },
+        {
+          "type": "narration",
+          "speaker_id": "narrator",
+          "text": "周启明没听完，按掉，回了句：",
+          "word_count": 13,
+          "segment_id": "ch_001_seg_009a"
+        },
+        {
+          "type": "dialogue",
+          "speaker_id": "char_001",
+          "speaker_name": "周启明",
+          "text": "妈，行了。",
+          "word_count": 5,
+          "segment_id": "ch_001_seg_009b",
+          "emotion": "impatient",
+          "context": "text_message"
+        },
+        {
+          "type": "narration",
+          "speaker_id": "narrator",
+          "text": "他抬头，看向台阶下的沈知夏。",
+          "word_count": 14,
+          "segment_id": "ch_001_seg_010"
+        },
+        {
+          "type": "narration",
+          "speaker_id": "narrator",
+          "text": "她也拿着红本，却没翻看，像拿着一张对账单。灰色风衣，头发扎得紧，脸上没有一点"伤心"。那种平静让周启明莫名烦——像他刚才那条朋友圈，是对着空气表演。",
+          "word_count": 74,
+          "segment_id": "ch_001_seg_011"
+        },
