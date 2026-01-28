@@ -1,0 +1,669 @@
+{
+  "chapter_id": "ch_006",
+  "chapter_number": 6,
+  "title": "堵她",
+  "attribution_method": "ai_manual",
+  "attribution_date": "2026-01-27T11:00:00Z",
+  "total_segments": 84,
+  "segments": [
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明从会议室出来，走廊的灯白得刺眼。",
+      "word_count": 19,
+      "segment_id": "ch_006_seg_001"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "人事把停职通知塞进他手里，语气客气得像递快递：",
+      "word_count": 24,
+      "segment_id": "ch_006_seg_002a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_007",
+      "speaker_name": "人事",
+      "text": "周总，您这几天就先在家休息，保持电话畅通。公司配合审计期间，您不要接触医药线客户，不要接触原始材料。",
+      "word_count": 51,
+      "segment_id": "ch_006_seg_002b",
+      "context": "formal_notice",
+      "emotion": "polite"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明笑了一声，",
+      "word_count": 7,
+      "segment_id": "ch_006_seg_003a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "不要接触？我客户是我跑出来的，你们现在跟我说不要接触？",
+      "word_count": 27,
+      "segment_id": "ch_006_seg_003b",
+      "emotion": "sarcastic"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "人事没接茬，只重复：",
+      "word_count": 9,
+      "segment_id": "ch_006_seg_004a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_007",
+      "speaker_name": "人事",
+      "text": "这是流程。",
+      "word_count": 5,
+      "segment_id": "ch_006_seg_004b",
+      "context": "formal",
+      "emotion": "neutral"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "又是流程。",
+      "word_count": 5,
+      "segment_id": "ch_006_seg_005"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明把通知书折了两下，塞进口袋，转身就下楼。他没回家，直接开车去沈知夏事务所。",
+      "word_count": 40,
+      "segment_id": "ch_006_seg_006"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他要找她。",
+      "word_count": 5,
+      "segment_id": "ch_006_seg_007"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "不是为了和好，是为了把她逼回\"人\"那一面——哪怕只有一秒。只要她情绪波动，他就还有路。",
+      "word_count": 43,
+      "segment_id": "ch_006_seg_008"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "知夏审计事务所在写字楼二十二层。前台见到他，脸上的笑立刻收敛：",
+      "word_count": 31,
+      "segment_id": "ch_006_seg_009a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_008",
+      "speaker_name": "前台",
+      "text": "先生，您有预约吗？",
+      "word_count": 9,
+      "segment_id": "ch_006_seg_009b",
+      "context": "formal",
+      "emotion": "guarded"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明压着火，",
+      "word_count": 6,
+      "segment_id": "ch_006_seg_010a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "我找沈知夏。告诉她，周启明在楼下等。",
+      "word_count": 18,
+      "segment_id": "ch_006_seg_010b",
+      "emotion": "tense"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "前台看了他两眼，像在确认这个名字有没有风险，然后拨了内线。过了一会儿，她放下电话，语气更冷：",
+      "word_count": 44,
+      "segment_id": "ch_006_seg_011a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_008",
+      "speaker_name": "前台",
+      "text": "沈经理说，她现在在客户现场，不方便。",
+      "word_count": 17,
+      "segment_id": "ch_006_seg_011b",
+      "context": "formal",
+      "emotion": "cold"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明盯着她：",
+      "word_count": 6,
+      "segment_id": "ch_006_seg_012a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "她在哪个客户现场？",
+      "word_count": 9,
+      "segment_id": "ch_006_seg_012b",
+      "emotion": "demanding"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "前台微笑：",
+      "word_count": 4,
+      "segment_id": "ch_006_seg_013a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_008",
+      "speaker_name": "前台",
+      "text": "不方便透露。",
+      "word_count": 6,
+      "segment_id": "ch_006_seg_013b",
+      "emotion": "polite"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明的火一下窜上来：",
+      "word_count": 10,
+      "segment_id": "ch_006_seg_014a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "你们审计就这么见不得人？她敢做不敢见？",
+      "word_count": 19,
+      "segment_id": "ch_006_seg_014b",
+      "emotion": "angry"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "前台的笑不变：",
+      "word_count": 6,
+      "segment_id": "ch_006_seg_015a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_008",
+      "speaker_name": "前台",
+      "text": "先生，请您保持安静。",
+      "word_count": 9,
+      "segment_id": "ch_006_seg_015b",
+      "context": "formal",
+      "emotion": "firm"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明正要再说，电梯门\"叮\"地一声开了。",
+      "word_count": 20,
+      "segment_id": "ch_006_seg_016"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏走出来，手里抱着文件盒，身后跟着两个人，像刚从战场撤回。她看见周启明，脚步没有停，也没有躲，只是把目光放平，像早知道他会来。",
+      "word_count": 65,
+      "segment_id": "ch_006_seg_017"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明冲上去，挡在她面前：",
+      "word_count": 12,
+      "segment_id": "ch_006_seg_018a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "沈知夏，你到底想要什么？",
+      "word_count": 12,
+      "segment_id": "ch_006_seg_018b",
+      "emotion": "confrontational"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏停下，抬眼看他：",
+      "word_count": 10,
+      "segment_id": "ch_006_seg_019a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "我想要什么，离婚协议写得很清楚。",
+      "word_count": 16,
+      "segment_id": "ch_006_seg_019b",
+      "emotion": "calm"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明咬牙：",
+      "word_count": 5,
+      "segment_id": "ch_006_seg_020a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "协议？你现在是拿工作搞我！你别装无辜！",
+      "word_count": 19,
+      "segment_id": "ch_006_seg_020b",
+      "emotion": "angry"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏把文件盒放到旁边桌上，动作很稳：",
+      "word_count": 18,
+      "segment_id": "ch_006_seg_021a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "你来这儿吵，是想让我在办公室跟你吵架？周启明，你离婚的时候说过一句话——'别把家丑外扬'。现在你自己外扬。",
+      "word_count": 53,
+      "segment_id": "ch_006_seg_021b",
+      "emotion": "sharp"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明脸色一白，随即更恼：",
+      "word_count": 11,
+      "segment_id": "ch_006_seg_022a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "我外扬？你把审计函盖到我公司，那不叫外扬？",
+      "word_count": 20,
+      "segment_id": "ch_006_seg_022b",
+      "emotion": "defensive"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏看了他两秒，声音平：",
+      "word_count": 11,
+      "segment_id": "ch_006_seg_023a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "你公司请的第三方审计。你要是觉得不公平，可以投诉。流程都在。",
+      "word_count": 29,
+      "segment_id": "ch_006_seg_023b",
+      "emotion": "professional"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明的指尖发抖：",
+      "word_count": 8,
+      "segment_id": "ch_006_seg_024a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "你别跟我讲流程！你以前跟我过日子的时候，你不是也——",
+      "word_count": 25,
+      "segment_id": "ch_006_seg_024b",
+      "emotion": "desperate"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏打断他，眼神第一次真正落在他脸上，",
+      "word_count": 18,
+      "segment_id": "ch_006_seg_025a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "我以前帮你遮。你以为那是我软？那是我在给自己留体面。",
+      "word_count": 26,
+      "segment_id": "ch_006_seg_025b",
+      "emotion": "cold"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明喉咙一紧：",
+      "word_count": 7,
+      "segment_id": "ch_006_seg_026a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "所以你现在不遮了？",
+      "word_count": 9,
+      "segment_id": "ch_006_seg_026b",
+      "emotion": "tense"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏点头：",
+      "word_count": 5,
+      "segment_id": "ch_006_seg_027a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "我不遮了。",
+      "word_count": 5,
+      "segment_id": "ch_006_seg_027b",
+      "emotion": "resolute"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明压低声音，像最后一次威胁：",
+      "word_count": 14,
+      "segment_id": "ch_006_seg_028a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "你别忘了，你也在那共同账户里。你也花过那里面的钱。你现在把账全甩给我，你以为你能干净？",
+      "word_count": 43,
+      "segment_id": "ch_006_seg_028b",
+      "emotion": "threatening"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏静了一秒。",
+      "word_count": 8,
+      "segment_id": "ch_006_seg_029"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明以为自己终于抓住她了，眼里闪过一丝狠：",
+      "word_count": 21,
+      "segment_id": "ch_006_seg_030a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "你以为你站在规则那边就安全？你敢不敢——",
+      "word_count": 20,
+      "segment_id": "ch_006_seg_030b",
+      "emotion": "aggressive"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏说。",
+      "word_count": 4,
+      "segment_id": "ch_006_seg_031a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "我敢。",
+      "word_count": 3,
+      "segment_id": "ch_006_seg_031b",
+      "emotion": "firm"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "她从文件盒里抽出一份装订好的底稿，递到他面前。封面白纸黑字：",
+      "word_count": 30,
+      "segment_id": "ch_006_seg_032"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "《周启明相关交易与资金流梳理（内部底稿）》",
+      "word_count": 21,
+      "segment_id": "ch_006_seg_033"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明的心猛地一沉。",
+      "word_count": 10,
+      "segment_id": "ch_006_seg_034"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏翻开第一页，手指点在一条时间线上：",
+      "word_count": 19,
+      "segment_id": "ch_006_seg_035a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "共同账户关闭前，我做了留档。每一笔进出、用途、对应凭证，我都写清楚了。你说我花过？对。我花的是家庭开支。你转进来的那些'灰'，我从来没动过。",
+      "word_count": 68,
+      "segment_id": "ch_006_seg_035b",
+      "emotion": "professional"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明的额头开始冒汗：",
+      "word_count": 10,
+      "segment_id": "ch_006_seg_036a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "你怎么可能——",
+      "word_count": 6,
+      "segment_id": "ch_006_seg_036b",
+      "emotion": "shocked"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏看着他：",
+      "word_count": 6,
+      "segment_id": "ch_006_seg_037a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "你以为审计是写报告？审计是留证据。",
+      "word_count": 17,
+      "segment_id": "ch_006_seg_037b",
+      "emotion": "sharp"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "她又翻到后一页，指着一栏：",
+      "word_count": 12,
+      "segment_id": "ch_006_seg_038a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "这里，是你转账的原始截图、对公流水、对应报销单号。这里，是你让陈涛补材料的聊天记录截屏——你昨晚找他的时候，用的是你公司的工作号。系统会留痕。你觉得这些算不算'可核查'？",
+      "word_count": 80,
+      "segment_id": "ch_006_seg_038b",
+      "emotion": "methodical"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明的喉咙像被掐住：",
+      "word_count": 10,
+      "segment_id": "ch_006_seg_039a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "你监控我？",
+      "word_count": 5,
+      "segment_id": "ch_006_seg_039b",
+      "emotion": "panicked"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏摇头：",
+      "word_count": 5,
+      "segment_id": "ch_006_seg_040a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "我不需要监控你。你自己会往坑里走。",
+      "word_count": 17,
+      "segment_id": "ch_006_seg_040b",
+      "emotion": "cold"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明的脸一点点白下去。",
+      "word_count": 12,
+      "segment_id": "ch_006_seg_041"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他突然意识到：他今天来堵她，不是逼她情绪波动，是把自己送到她的底稿面前。",
+      "word_count": 36,
+      "segment_id": "ch_006_seg_042"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏合上底稿，声音很轻：",
+      "word_count": 12,
+      "segment_id": "ch_006_seg_043a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "周启明，你别再试图把我拉下水。你现在唯一能做的，是决定你输得体不体面。",
+      "word_count": 34,
+      "segment_id": "ch_006_seg_043b",
+      "emotion": "firm"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明咬牙：",
+      "word_count": 5,
+      "segment_id": "ch_006_seg_044a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "你这么狠，你就不怕我——",
+      "word_count": 11,
+      "segment_id": "ch_006_seg_044b",
+      "emotion": "threatening"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏抬眼，目光像审计师看一张明显造假的凭证：",
+      "word_count": 22,
+      "segment_id": "ch_006_seg_045a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "你要真敢闹，就闹。我会把你所有的账按规则递出去。到时候你不是失业，是进去。",
+      "word_count": 37,
+      "segment_id": "ch_006_seg_045b",
+      "emotion": "cold"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明僵在原地，像被这句话钉死。",
+      "word_count": 16,
+      "segment_id": "ch_006_seg_046"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏绕过他，重新抱起文件盒，脚步不快不慢。走到电梯前，她停了一下，没有回头，只留下一句：",
+      "word_count": 42,
+      "segment_id": "ch_006_seg_047a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "你不是一直想让我'别管'吗？现在我不管了。",
+      "word_count": 20,
+      "segment_id": "ch_006_seg_047b",
+      "emotion": "final"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "电梯门合上。",
+      "word_count": 6,
+      "segment_id": "ch_006_seg_048"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明站在原地，手里还捏着那份底稿的封面，纸边锋利，割得他指腹发疼。",
+      "word_count": 34,
+      "segment_id": "ch_006_seg_049"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他第一次清楚地知道：这不是夫妻吵架。",
+      "word_count": 18,
+      "segment_id": "ch_006_seg_050"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "这是清算。",
+      "word_count": 5,
+      "segment_id": "ch_006_seg_051"
+    }
+  ]
+}

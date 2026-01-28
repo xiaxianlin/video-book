@@ -1,0 +1,437 @@
+{
+  "chapter_id": "ch_001",
+  "chapter_number": 1,
+  "title": "离婚证到手",
+  "attribution_method": "ai_manual",
+  "attribution_date": "2026-01-27T10:50:00Z",
+  "total_segments": 55,
+  "segments": [
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "离婚证拿在手里那一刻，周启明第一反应是爽。",
+      "word_count": 21,
+      "segment_id": "ch_001_seg_001"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他站在民政局门口，太阳刺得人睁不开眼。他把红本塞进公文包里，抬手拍了张天空，不拍证不拍人，配文四个字：",
+      "word_count": 52,
+      "segment_id": "ch_001_seg_002a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "重新开始。",
+      "word_count": 5,
+      "segment_id": "ch_001_seg_002b",
+      "context": "social_media_post"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "不到一分钟，点赞和恭喜就堆上来了。",
+      "word_count": 17,
+      "segment_id": "ch_001_seg_003"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "social_media",
+      "speaker_name": "朋友圈评论",
+      "text": "明哥自由了！",
+      "word_count": 6,
+      "segment_id": "ch_001_seg_004",
+      "context": "social_media_comment"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "social_media",
+      "speaker_name": "朋友圈评论",
+      "text": "恭喜脱离苦海！",
+      "word_count": 7,
+      "segment_id": "ch_001_seg_005",
+      "context": "social_media_comment"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "social_media",
+      "speaker_name": "朋友圈评论",
+      "text": "晚上出来喝一个？",
+      "word_count": 8,
+      "segment_id": "ch_001_seg_006",
+      "context": "social_media_comment"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明盯着屏幕笑，像一场仗打赢了。离婚这事，只要别人替你叫好，你就不会怀疑自己是不是输。",
+      "word_count": 44,
+      "segment_id": "ch_001_seg_007"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "手机又震了一下，是母亲李桂芳的语音，点开就炸：",
+      "word_count": 21,
+      "segment_id": "ch_001_seg_008a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_004",
+      "speaker_name": "李桂芳",
+      "text": "办完了吧？我跟你说，离了就离了，别心软！女人一旦拿捏住你，你这辈子就完了。你记住，房子首付是你出的，她凭什么——",
+      "word_count": 60,
+      "segment_id": "ch_001_seg_008b",
+      "context": "voice_message",
+      "emotion": "angry"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明没听完，按掉，回了句：",
+      "word_count": 13,
+      "segment_id": "ch_001_seg_009a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "妈，行了。",
+      "word_count": 5,
+      "segment_id": "ch_001_seg_009b",
+      "context": "text_message",
+      "emotion": "impatient"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他抬头，看向台阶下的沈知夏。",
+      "word_count": 14,
+      "segment_id": "ch_001_seg_010"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "她也拿着红本，却没翻看，像拿着一张对账单。灰色风衣，头发扎得紧，脸上没有一点伤心。那种平静让周启明莫名烦——像他刚才那条朋友圈，是对着空气表演。",
+      "word_count": 72,
+      "segment_id": "ch_001_seg_011"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "东西我这周收拾完。",
+      "word_count": 9,
+      "segment_id": "ch_001_seg_012a"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明说。",
+      "word_count": 4,
+      "segment_id": "ch_001_seg_012b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "嗯。",
+      "word_count": 1,
+      "segment_id": "ch_001_seg_013a",
+      "emotion": "indifferent"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏嗯了一声，没多问。",
+      "word_count": 11,
+      "segment_id": "ch_001_seg_013b"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明又补了一句，像怕她忘了谁更大度：",
+      "word_count": 18,
+      "segment_id": "ch_001_seg_014a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "协议你也看了，该给你的我给了。你别再——",
+      "word_count": 20,
+      "segment_id": "ch_001_seg_014b",
+      "emotion": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "周启明。",
+      "word_count": 3,
+      "segment_id": "ch_001_seg_015a",
+      "emotion": "cold"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏打断他，声音不高：",
+      "word_count": 11,
+      "segment_id": "ch_001_seg_015b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "别把话说得像你在施舍。",
+      "word_count": 11,
+      "segment_id": "ch_001_seg_015c",
+      "emotion": "cold"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明脸色一沉：",
+      "word_count": 7,
+      "segment_id": "ch_001_seg_016a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "我施舍？你看看你拿走多少——",
+      "word_count": 13,
+      "segment_id": "ch_001_seg_016b",
+      "emotion": "angry"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏抬眼，目光像把算盘珠子一颗颗拨开：",
+      "word_count": 18,
+      "segment_id": "ch_001_seg_017a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "你拿着首付说话，就像拿着一张发票说自己买了整家公司。",
+      "word_count": 26,
+      "segment_id": "ch_001_seg_017b",
+      "emotion": "sharp"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明被噎得一句话卡在喉咙里。那一瞬他很想回击，想抬高声音，让自己重新站回熟悉的高度。但沈知夏已经转身，走向路口。",
+      "word_count": 57,
+      "segment_id": "ch_001_seg_018"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "她走得很快，风衣下摆被风掀起一点，像一页翻过去的纸。",
+      "word_count": 26,
+      "segment_id": "ch_001_seg_019"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明盯着她背影看了两秒，心里骂了一句装什么。他给自己找补：冷就冷吧，女人离了婚都爱装坚强。反正最后难受的是她。",
+      "word_count": 54,
+      "segment_id": "ch_001_seg_020"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "晚上他没有回老房子，而是回了公司附近那套小公寓。门一开，屋里空得发响。",
+      "word_count": 35,
+      "segment_id": "ch_001_seg_021"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "鞋柜里只剩他的皮鞋；玄关那张他嫌占地方的换鞋凳也没了；冰箱门上那张本周菜谱更是干干净净，连磁铁都被抠走。",
+      "word_count": 51,
+      "segment_id": "ch_001_seg_022"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明站在门口，心里忽然有点发空，但他不承认。",
+      "word_count": 23,
+      "segment_id": "ch_001_seg_023"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他走进卧室，衣柜里还挂着他的衬衫，但沈知夏的那半边已经腾空，衣架一排排整齐，像被抽走了一半的骨头。床头柜上那盏小夜灯不见了，床单换成了他从没见过的灰色——冷、硬、没味道。",
+      "word_count": 85,
+      "segment_id": "ch_001_seg_024"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明拉开抽屉，想找打火机，却摸到一张折好的纸。",
+      "word_count": 24,
+      "segment_id": "ch_001_seg_025"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "纸上是沈知夏的字，笔画干净，像审计底稿：",
+      "word_count": 20,
+      "segment_id": "ch_001_seg_026"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "你名下的信用卡，我已解绑。共同账户已关闭。家里所有水电燃气、宽带等绑定手机号已更换。你要的干净，我给你。",
+      "word_count": 52,
+      "segment_id": "ch_001_seg_027",
+      "context": "written_note",
+      "emotion": "cold"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明盯着最后那句干净，心里那点空更明显了。他第一反应不是难过，是火：她这是在提醒他——她走得很彻底。",
+      "word_count": 49,
+      "segment_id": "ch_001_seg_028"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他把纸揉了一下，又摊平。揉不烂，像她的态度。",
+      "word_count": 22,
+      "segment_id": "ch_001_seg_029"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "手机又亮，是同事群里艾特他：",
+      "word_count": 14,
+      "segment_id": "ch_001_seg_030a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "colleague",
+      "speaker_name": "同事",
+      "text": "明哥，明天早会赵总点名你，医药那条线的回款资料你带一下。",
+      "word_count": 28,
+      "segment_id": "ch_001_seg_030b",
+      "context": "group_message"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明回了个OK，顺手把沈知夏那张纸塞回抽屉。",
+      "word_count": 23,
+      "segment_id": "ch_001_seg_031"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他告诉自己：离了就离了。女人走了也就走了。工作还在，客户还在。只要他过得更好，她自然会后悔。",
+      "word_count": 46,
+      "segment_id": "ch_001_seg_032"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他洗了个澡，躺上床。",
+      "word_count": 10,
+      "segment_id": "ch_001_seg_033"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "屋里安静得只剩空调风声。周启明翻了个身，手伸到床另一侧，摸到的只有一片冷。",
+      "word_count": 37,
+      "segment_id": "ch_001_seg_034"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他闭上眼，脑子里却冒出沈知夏那句别把话说得像你在施舍。他越想越烦，索性拿起手机刷朋友圈，准备再看看点赞压压火。",
+      "word_count": 54,
+      "segment_id": "ch_001_seg_035"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "结果先弹出来的不是点赞。",
+      "word_count": 12,
+      "segment_id": "ch_001_seg_036"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "是客户群的消息，来自他最核心的那家三甲医院采购对接人：",
+      "word_count": 27,
+      "segment_id": "ch_001_seg_037"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_006",
+      "speaker_name": "王海生",
+      "text": "周总，明天的回款先暂停。你们公司说要配合审计，所有供应商都要重新核查资质和合同流。",
+      "word_count": 40,
+      "segment_id": "ch_001_seg_038",
+      "context": "group_message"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "什么审计？",
+      "word_count": 4,
+      "segment_id": "ch_001_seg_039",
+      "emotion": "shocked"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明一下坐起来。对方没回。",
+      "word_count": 13,
+      "segment_id": "ch_001_seg_040"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "紧接着，赵建成的电话打进来，声音像开会一样冷：",
+      "word_count": 22,
+      "segment_id": "ch_001_seg_041a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "周启明，明早八点半来我办公室。带上医药线所有合同、回扣报销、客户招待的凭证。还有——",
+      "word_count": 40,
+      "segment_id": "ch_001_seg_041b",
+      "context": "phone_call",
+      "emotion": "cold"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "赵建成停了一下，像在故意让他听清楚每个字：",
+      "word_count": 21,
+      "segment_id": "ch_001_seg_042"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "审计函是知夏审计事务所盖的章。你猜，谁是项目负责人？",
+      "word_count": 26,
+      "segment_id": "ch_001_seg_043",
+      "context": "phone_call",
+      "emotion": "cold"
+    }
+  ]
+}

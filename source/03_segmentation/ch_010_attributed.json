@@ -1,0 +1,484 @@
+{
+  "chapter_id": "ch_010",
+  "chapter_number": 10,
+  "title": "认输",
+  "attribution_method": "ai_manual",
+  "attribution_date": "2026-01-28T10:00:00Z",
+  "total_segments": 61,
+  "segments": [
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明最后一次去找沈知夏，是在一周后。",
+      "word_count": 19,
+      "segment_id": "ch_010_seg_001"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他没再穿西装，穿了件普通夹克，胡子没刮干净，整个人像被风吹皱的纸。他站在知夏审计事务所楼下，抬头看着那栋玻璃楼，突然意识到：以前他以为自己在上升，其实只是踩在她的\"遮\"上往上走。",
+      "word_count": 89,
+      "segment_id": "ch_010_seg_002"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "这一次，前台没有拦他。",
+      "word_count": 11,
+      "segment_id": "ch_010_seg_003"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏在会议室里，面前摊着新的底稿，旁边是没喝完的咖啡。她看见周启明进来，没惊讶，像早就算到这一步会发生。",
+      "word_count": 53,
+      "segment_id": "ch_010_seg_004"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "有事？",
+      "word_count": 3,
+      "segment_id": "ch_010_seg_005a",
+      "emotion": "calm"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "她问。",
+      "word_count": 2,
+      "segment_id": "ch_010_seg_005b"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明站着，嗓子发干：",
+      "word_count": 11,
+      "segment_id": "ch_010_seg_006a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "我想问你一句。你做这些……是为了报复吗？",
+      "word_count": 20,
+      "segment_id": "ch_010_seg_006b",
+      "emotion": "uncertain"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏把笔放下：",
+      "word_count": 7,
+      "segment_id": "ch_010_seg_007a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "你觉得呢？",
+      "word_count": 5,
+      "segment_id": "ch_010_seg_007b",
+      "emotion": "calm"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明苦笑了一下：",
+      "word_count": 8,
+      "segment_id": "ch_010_seg_008a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "我以前觉得你在装，在忍。现在才知道你不是忍，你是在算。",
+      "word_count": 27,
+      "segment_id": "ch_010_seg_008b",
+      "emotion": "bitter"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏平静地纠正他：",
+      "word_count": 8,
+      "segment_id": "ch_010_seg_009a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "我是在保命。",
+      "word_count": 6,
+      "segment_id": "ch_010_seg_009b",
+      "emotion": "serious"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明一愣。",
+      "word_count": 6,
+      "segment_id": "ch_010_seg_010"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏看着他，语气依旧不高，却很清楚：",
+      "word_count": 17,
+      "segment_id": "ch_010_seg_011a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "你那些账，一旦爆出来，最先被拖下水的是家属。你以为你在挣钱养家，你是在把家当缓冲垫。我离婚，是先把自己从垫子上抽出来。",
+      "word_count": 60,
+      "segment_id": "ch_010_seg_011b",
+      "emotion": "firm"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明的喉咙发紧：",
+      "word_count": 8,
+      "segment_id": "ch_010_seg_012a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "那我呢？我现在——",
+      "word_count": 9,
+      "segment_id": "ch_010_seg_012b",
+      "emotion": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "你现在按规则走。",
+      "word_count": 7,
+      "segment_id": "ch_010_seg_013a",
+      "emotion": "firm"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏说，",
+      "word_count": 4,
+      "segment_id": "ch_010_seg_013b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "你欠的债，你自己还。你该承担的责任，你自己扛。你以前不是最爱说'男人要负责'吗？",
+      "word_count": 36,
+      "segment_id": "ch_010_seg_013c",
+      "emotion": "pointed"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明被这句话打得站不稳。他想反驳，又发现自己没有立场。",
+      "word_count": 28,
+      "segment_id": "ch_010_seg_014"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他沉默很久，终于低声说：",
+      "word_count": 11,
+      "segment_id": "ch_010_seg_015a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "我输了。",
+      "word_count": 4,
+      "segment_id": "ch_010_seg_015b",
+      "emotion": "defeated"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏没接\"输\"这个词，只问：",
+      "word_count": 13,
+      "segment_id": "ch_010_seg_016a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "你来是想让我帮你？",
+      "word_count": 10,
+      "segment_id": "ch_010_seg_016b",
+      "emotion": "calm"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明摇头：",
+      "word_count": 5,
+      "segment_id": "ch_010_seg_017a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "我来是想告诉你……你赢了。我认。",
+      "word_count": 16,
+      "segment_id": "ch_010_seg_017b",
+      "emotion": "resigned"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏看着他，眼神里没有胜利的快感，只有一种事情终于结束的疲惫：",
+      "word_count": 29,
+      "segment_id": "ch_010_seg_018a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "我没赢。我只是没再输。",
+      "word_count": 11,
+      "segment_id": "ch_010_seg_018b",
+      "emotion": "weary"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明的眼眶发热，他硬生生把那股热压下去，像压住最后一点面子：",
+      "word_count": 29,
+      "segment_id": "ch_010_seg_019a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "那我们……还有可能吗？",
+      "word_count": 11,
+      "segment_id": "ch_010_seg_019b",
+      "emotion": "hopeful"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏看着他，停了两秒：",
+      "word_count": 11,
+      "segment_id": "ch_010_seg_020a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "没有。",
+      "word_count": 3,
+      "segment_id": "ch_010_seg_020b",
+      "emotion": "decisive"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "干脆得像审计结论。",
+      "word_count": 9,
+      "segment_id": "ch_010_seg_021"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明点头，像终于等到一刀落下：",
+      "word_count": 14,
+      "segment_id": "ch_010_seg_022a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "好。",
+      "word_count": 1,
+      "segment_id": "ch_010_seg_022b",
+      "emotion": "accepting"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他转身要走，脚步却顿了一下：",
+      "word_count": 13,
+      "segment_id": "ch_010_seg_023a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "沈知夏，我最后问你一句。你有没有哪怕一秒……后悔跟我结婚？",
+      "word_count": 29,
+      "segment_id": "ch_010_seg_023b",
+      "emotion": "vulnerable"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏没有立刻回答。她把桌上的底稿合上，抬眼看他，声音很轻：",
+      "word_count": 27,
+      "segment_id": "ch_010_seg_024a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "我后悔的是，我太晚才开始结账。",
+      "word_count": 16,
+      "segment_id": "ch_010_seg_024b",
+      "emotion": "reflective"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明的胸口像被掏空。他点了点头，转身离开。",
+      "word_count": 22,
+      "segment_id": "ch_010_seg_025"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "走出写字楼时，阳光很亮，亮得他眯起眼。他忽然想起离婚那天他发的那句\"重新开始\"。",
+      "word_count": 40,
+      "segment_id": "ch_010_seg_026"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "原来重新开始不是祝福，是清算后的结果。",
+      "word_count": 19,
+      "segment_id": "ch_010_seg_027"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他走到路口，手机震了一下，是催收短信，是欠款提醒，是他以前从不在意的数字。周启明看着那些数字，第一次没有骂，也没有逃。",
+      "word_count": 59,
+      "segment_id": "ch_010_seg_028"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他只是回了一句：",
+      "word_count": 7,
+      "segment_id": "ch_010_seg_029a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "我会还。",
+      "word_count": 4,
+      "segment_id": "ch_010_seg_029b",
+      "context": "text_message",
+      "emotion": "determined"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "与此同时，二十二层的会议室里，沈知夏重新翻开底稿，继续工作。",
+      "word_count": 30,
+      "segment_id": "ch_010_seg_030"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "她的同事推门进来，递给她一杯咖啡：",
+      "word_count": 16,
+      "segment_id": "ch_010_seg_031a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_005",
+      "speaker_name": "同事",
+      "text": "知夏，晚上还加班吗？",
+      "word_count": 10,
+      "segment_id": "ch_010_seg_031b",
+      "emotion": "friendly"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏接过咖啡，点头：",
+      "word_count": 9,
+      "segment_id": "ch_010_seg_032a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "加。",
+      "word_count": 1,
+      "segment_id": "ch_010_seg_032b",
+      "emotion": "calm"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "同事笑：",
+      "word_count": 3,
+      "segment_id": "ch_010_seg_033a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_005",
+      "speaker_name": "同事",
+      "text": "你这么拼，图啥？",
+      "word_count": 8,
+      "segment_id": "ch_010_seg_033b",
+      "emotion": "curious"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏看着窗外的城市，阳光落在玻璃上，像一层干净的光。她淡淡说：",
+      "word_count": 30,
+      "segment_id": "ch_010_seg_034a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
+      "text": "图清净。",
+      "word_count": 4,
+      "segment_id": "ch_010_seg_034b",
+      "emotion": "peaceful"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "下班时，她没有回那套曾经的\"家\"，而是去了地铁口旁边的小花店，买了一束最便宜的白雏菊。",
+      "word_count": 43,
+      "segment_id": "ch_010_seg_035"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "她拿着花，站在人群里，像站在自己的新生活里。没有谁拉她下水，也没有谁替她遮。",
+      "word_count": 38,
+      "segment_id": "ch_010_seg_036"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "她抬头看了一眼天空，手机屏幕亮起，锁屏上是她给自己换的壁纸：一张干净的账本封面。",
+      "word_count": 40,
+      "segment_id": "ch_010_seg_037"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "沈知夏把花抱紧了一点，转身走进地铁。",
+      "word_count": 18,
+      "segment_id": "ch_010_seg_038"
+    }
+  ]
+}

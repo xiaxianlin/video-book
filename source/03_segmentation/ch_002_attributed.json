@@ -1,0 +1,613 @@
+{
+  "chapter_id": "ch_002",
+  "chapter_number": 2,
+  "title": "她是项目负责人",
+  "attribution_method": "ai_manual",
+  "attribution_date": "2026-01-27T11:00:00Z",
+  "total_segments": 85,
+  "segments": [
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明握着手机，指节发白。",
+      "word_count": 13,
+      "segment_id": "ch_002_seg_001"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他第一反应是荒唐：沈知夏审计事务所？项目负责人？她凭什么审到他公司头上？离婚才一天，她就能把手伸这么长？",
+      "word_count": 52,
+      "segment_id": "ch_002_seg_002"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "第二反应才是火——不是怕，是被冒犯的火。",
+      "word_count": 20,
+      "segment_id": "ch_002_seg_003"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他把电话挂断，立刻点开沈知夏的微信。聊天框里最后一条还是昨晚他发的：",
+      "word_count": 33,
+      "segment_id": "ch_002_seg_004a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "明天我去拿剩下的东西。",
+      "word_count": 11,
+      "segment_id": "ch_002_seg_004b",
+      "context": "wechat_message"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "她没回。周启明打字，手指用力得像要戳穿屏幕：",
+      "word_count": 22,
+      "segment_id": "ch_002_seg_005"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "你什么意思？你故意的？",
+      "word_count": 11,
+      "segment_id": "ch_002_seg_006",
+      "context": "wechat_message",
+      "emotion": "angry"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "发出去，依旧没有动静。",
+      "word_count": 11,
+      "segment_id": "ch_002_seg_007"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他站起身在屋里走了两圈，越想越不对劲。医药线的回款、合同、报销凭证——这些东西他不是没有，但他从来不觉得需要经得起审计。这个行业谁家没点灰？要真按规则来，大家一起死。",
+      "word_count": 82,
+      "segment_id": "ch_002_seg_008"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "可赵建成那句话太冷了。冷得像在告诉他：这次，规则要落到你头上。",
+      "word_count": 31,
+      "segment_id": "ch_002_seg_009"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "早上八点半，周启明准时出现在公司。电梯门一开，前台看他的眼神就不对，像在看一个已经被贴上标签的人。",
+      "word_count": 49,
+      "segment_id": "ch_002_seg_010"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "走廊里有人压低声音：",
+      "word_count": 10,
+      "segment_id": "ch_002_seg_011a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "colleague",
+      "speaker_name": "同事A",
+      "text": "就是他吧？昨晚群里说医药线要被查……",
+      "word_count": 19,
+      "segment_id": "ch_002_seg_011b",
+      "context": "gossip"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "colleague",
+      "speaker_name": "同事B",
+      "text": "他不是刚离婚吗？听说前妻是搞审计的。",
+      "word_count": 19,
+      "segment_id": "ch_002_seg_012",
+      "context": "gossip"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "colleague",
+      "speaker_name": "同事C",
+      "text": "那不是活该？这类人最怕审计。",
+      "word_count": 15,
+      "segment_id": "ch_002_seg_013",
+      "context": "gossip"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明脚步没停，但耳朵像被针扎了一下。他走进办公区，陈涛正在打印资料，看见他，立刻把纸往文件夹里一塞，笑得很用力：",
+      "word_count": 57,
+      "segment_id": "ch_002_seg_014"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_005",
+      "speaker_name": "陈涛",
+      "text": "明哥早。",
+      "word_count": 4,
+      "segment_id": "ch_002_seg_015",
+      "emotion": "nervous"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "早。",
+      "word_count": 1,
+      "segment_id": "ch_002_seg_016a"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明盯他一眼：",
+      "word_count": 7,
+      "segment_id": "ch_002_seg_016b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "赵总找我什么事？",
+      "word_count": 8,
+      "segment_id": "ch_002_seg_016c",
+      "emotion": "suspicious"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "陈涛眼神闪了一下：",
+      "word_count": 9,
+      "segment_id": "ch_002_seg_017a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_005",
+      "speaker_name": "陈涛",
+      "text": "好像是……合规检查。听说有审计组要来。",
+      "word_count": 19,
+      "segment_id": "ch_002_seg_017b",
+      "emotion": "evasive"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "听说？你什么时候也开始靠听说做事了？",
+      "word_count": 18,
+      "segment_id": "ch_002_seg_018",
+      "emotion": "cold"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "陈涛尴尬地笑：",
+      "word_count": 6,
+      "segment_id": "ch_002_seg_019a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_005",
+      "speaker_name": "陈涛",
+      "text": "我就是……提醒您一下。",
+      "word_count": 10,
+      "segment_id": "ch_002_seg_019b",
+      "emotion": "apologetic"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明没再搭理他，径直去赵建成办公室。门口已经坐了两个人：法务和人事。周启明心里咯噔一下，面上却不动声色，敲门。",
+      "word_count": 56,
+      "segment_id": "ch_002_seg_020"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "进。",
+      "word_count": 1,
+      "segment_id": "ch_002_seg_021"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "赵建成坐在桌后，面前摆着一摞文件，像一座小山。他抬眼看周启明，笑得很客气：",
+      "word_count": 37,
+      "segment_id": "ch_002_seg_022a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "启明，坐。先喝口水。",
+      "word_count": 9,
+      "segment_id": "ch_002_seg_022b",
+      "emotion": "polite_cold"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明没坐：",
+      "word_count": 6,
+      "segment_id": "ch_002_seg_023a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "赵总，我医药线的回款突然被暂停，你这边要我带材料——到底怎么回事？",
+      "word_count": 32,
+      "segment_id": "ch_002_seg_023b",
+      "emotion": "tense"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "赵建成慢条斯理：",
+      "word_count": 6,
+      "segment_id": "ch_002_seg_024a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "公司例行审计。平台要求，合规升级。你也知道，最近监管紧。",
+      "word_count": 27,
+      "segment_id": "ch_002_seg_024b",
+      "emotion": "calm"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明压着火：",
+      "word_count": 6,
+      "segment_id": "ch_002_seg_025a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "例行审计需要冻结回款？",
+      "word_count": 11,
+      "segment_id": "ch_002_seg_025b",
+      "emotion": "angry"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "赵建成笑：",
+      "word_count": 4,
+      "segment_id": "ch_002_seg_026a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "不是我冻，是医院那边自己观望。你做销售的，最懂风向。",
+      "word_count": 26,
+      "segment_id": "ch_002_seg_026b",
+      "emotion": "sarcastic"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明盯着他：",
+      "word_count": 6,
+      "segment_id": "ch_002_seg_027a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "昨晚你说，审计函是知夏审计事务所的章。",
+      "word_count": 19,
+      "segment_id": "ch_002_seg_027b"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "赵建成点头，像承认一件和他无关的天气：",
+      "word_count": 18,
+      "segment_id": "ch_002_seg_028a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "对。我们请的第三方。你也别多想，外面事务所多得是，碰巧而已。",
+      "word_count": 30,
+      "segment_id": "ch_002_seg_028b",
+      "emotion": "dismissive"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明差点笑出声：",
+      "word_count": 8,
+      "segment_id": "ch_002_seg_029a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "碰巧？她是我前妻。她是项目负责人。这也碰巧？",
+      "word_count": 22,
+      "segment_id": "ch_002_seg_029b",
+      "emotion": "bitter"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "赵建成把笑收了，语气忽然变得很正式：",
+      "word_count": 17,
+      "segment_id": "ch_002_seg_030a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "启明，你离婚是你的私事。公司请谁来审计，是公司的事。你要是觉得不方便，可以申请回避——",
+      "word_count": 42,
+      "segment_id": "ch_002_seg_030b",
+      "emotion": "formal"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明心里一沉：",
+      "word_count": 7,
+      "segment_id": "ch_002_seg_031a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "回避什么？",
+      "word_count": 5,
+      "segment_id": "ch_002_seg_031b",
+      "emotion": "defensive"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "赵建成把一份纸推到他面前，抬手点了点标题：",
+      "word_count": 21,
+      "segment_id": "ch_002_seg_032"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "销售费用真实性与合规性专项核查",
+      "word_count": 15,
+      "segment_id": "ch_002_seg_033"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "下面列了三行：招待费、市场活动费、学术推广费。每一行后面都附着一串编号，像点名册。周启明扫一眼就知道，这不是随机抽查，这是冲着他来的。",
+      "word_count": 67,
+      "segment_id": "ch_002_seg_034"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "赵建成看着他：",
+      "word_count": 6,
+      "segment_id": "ch_002_seg_035a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "你负责的医药线，过去两年费用占比最高，外部风险也最高。审计组要先从你这条线下手。",
+      "word_count": 39,
+      "segment_id": "ch_002_seg_035b",
+      "emotion": "cold"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明咬牙：",
+      "word_count": 5,
+      "segment_id": "ch_002_seg_036a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "那你昨晚电话里为什么要特意说知夏审计事务所？",
+      "word_count": 22,
+      "segment_id": "ch_002_seg_036b",
+      "emotion": "angry"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "赵建成端起茶杯，吹了一口，语气淡得像在谈预算：",
+      "word_count": 22,
+      "segment_id": "ch_002_seg_037a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "因为我怕你今天来不及准备。毕竟项目负责人是你前妻，审计风格——你比我懂。",
+      "word_count": 35,
+      "segment_id": "ch_002_seg_037b",
+      "emotion": "cold"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "这句话像一记闷拳打在周启明胸口。他比赵建成懂。懂沈知夏做事从来不靠情绪，靠的是证据链。懂她最擅长的不是吵架，是把一件事写成可核查、可追溯、可追责。",
+      "word_count": 75,
+      "segment_id": "ch_002_seg_038"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明强撑着冷笑：",
+      "word_count": 8,
+      "segment_id": "ch_002_seg_039a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "赵总，你这话什么意思？她会故意搞我？",
+      "word_count": 19,
+      "segment_id": "ch_002_seg_039b",
+      "emotion": "defensive"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "赵建成放下杯子，眼神第一次变冷：",
+      "word_count": 15,
+      "segment_id": "ch_002_seg_040a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "启明，我只看结果。你要是干净，就不怕她搞。你要是不干净——",
+      "word_count": 28,
+      "segment_id": "ch_002_seg_040b",
+      "emotion": "threatening"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他停顿了一下，吐出四个字：",
+      "word_count": 12,
+      "segment_id": "ch_002_seg_041a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "别拖公司。",
+      "word_count": 4,
+      "segment_id": "ch_002_seg_041b",
+      "emotion": "cold"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "人事在旁边轻轻咳了一声，像提醒周启明：你现在不是来谈判的，你是来被定性的。周启明把那份核查清单拿起来，纸边锋利，割得他指腹发疼。",
+      "word_count": 64,
+      "segment_id": "ch_002_seg_042"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他忽然想起沈知夏在民政局门口那种平静，想起她留给他的那张纸：你要的干净，我给你。当时他以为她是在赌气。现在他才反应过来——那不是赌气，是切割。她把所有能跟他共担的东西，提前切干净，然后让账只剩他一个人能背。",
+      "word_count": 107,
+      "segment_id": "ch_002_seg_043"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明喉咙发紧：",
+      "word_count": 7,
+      "segment_id": "ch_002_seg_044a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "审计组什么时候到？",
+      "word_count": 9,
+      "segment_id": "ch_002_seg_044b",
+      "emotion": "tense"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "赵建成看了眼表：",
+      "word_count": 7,
+      "segment_id": "ch_002_seg_045a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "十点。还有一个半小时。你把能解释的都解释清楚。解释不清楚的……",
+      "word_count": 30,
+      "segment_id": "ch_002_seg_045b"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他把那份清单轻轻敲了敲：",
+      "word_count": 12,
+      "segment_id": "ch_002_seg_046a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "就按审计报告写。",
+      "word_count": 7,
+      "segment_id": "ch_002_seg_046b",
+      "emotion": "cold"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明站起身，转身要走。赵建成忽然又叫住他：",
+      "word_count": 21,
+      "segment_id": "ch_002_seg_047"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "对了，启明。医院那边还有个会，下午两点，原本你去谈续约的。",
+      "word_count": 29,
+      "segment_id": "ch_002_seg_048"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明回头，眼神发冷：",
+      "word_count": 9,
+      "segment_id": "ch_002_seg_049a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "怎么？",
+      "word_count": 2,
+      "segment_id": "ch_002_seg_049b",
+      "emotion": "cold"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "赵建成笑了一下：",
+      "word_count": 7,
+      "segment_id": "ch_002_seg_050a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_003",
+      "speaker_name": "赵建成",
+      "text": "我让沈知夏一起去。",
+      "word_count": 9,
+      "segment_id": "ch_002_seg_050b",
+      "emotion": "cold"
+    }
+  ]
+}

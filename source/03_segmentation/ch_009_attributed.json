@@ -1,0 +1,468 @@
+{
+  "chapter_id": "ch_009",
+  "chapter_number": 9,
+  "title": "崩盘",
+  "attribution_method": "ai_manual",
+  "attribution_date": "2026-01-28T12:00:00Z",
+  "total_segments": 59,
+  "segments": [
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "解除劳动关系的手续办得很快。",
+      "word_count": 14,
+      "segment_id": "ch_009_seg_001"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "人事把一份《解除劳动合同通知书》递给周启明，语气像在宣读天气：",
+      "word_count": 31,
+      "segment_id": "ch_009_seg_002a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_005",
+      "speaker_name": "人事",
+      "text": "周先生，请您在这里签收。您的工牌、门禁卡、电脑已按流程收回。社保公积金本月停缴，离职证明三天后可开。",
+      "word_count": 52,
+      "segment_id": "ch_009_seg_002b",
+      "emotion": "indifferent",
+      "context": "formal_procedure"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明盯着\"周先生\"三个字，忽然觉得好笑——昨天他还是\"周总\"，今天就成了\"周先生\"。位置被抽走，连称呼都变了。",
+      "word_count": 56,
+      "segment_id": "ch_009_seg_003"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他签完，手指发麻。人事又递来一张单子：",
+      "word_count": 18,
+      "segment_id": "ch_009_seg_004a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_005",
+      "speaker_name": "人事",
+      "text": "这是您个人应承担的费用清单。公司垫付部分需要您在规定时间内归还。",
+      "word_count": 35,
+      "segment_id": "ch_009_seg_004b",
+      "emotion": "neutral",
+      "context": "formal_procedure"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明扫了一眼，眼前一黑。",
+      "word_count": 13,
+      "segment_id": "ch_009_seg_005"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "差旅垫付、招待费冲账、项目违约金预估、甚至还有一项\"合规整改成本分摊（待定）\"。每一行后面都是数字，像一颗颗砸下来的石头。",
+      "word_count": 61,
+      "segment_id": "ch_009_seg_006"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他抬头：",
+      "word_count": 4,
+      "segment_id": "ch_009_seg_007a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "违约金凭什么算我头上？",
+      "word_count": 13,
+      "segment_id": "ch_009_seg_007b",
+      "emotion": "angry"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "人事微笑：",
+      "word_count": 5,
+      "segment_id": "ch_009_seg_008a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_005",
+      "speaker_name": "人事",
+      "text": "法务说按报告建议。",
+      "word_count": 11,
+      "segment_id": "ch_009_seg_008b",
+      "emotion": "indifferent"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "又是报告。",
+      "word_count": 5,
+      "segment_id": "ch_009_seg_009"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明把那张清单揉得发皱，塞进口袋，像把一堆烂账塞进胸口。他走出公司大门，阳光照在玻璃幕墙上，亮得刺眼，却照不暖他一点。",
+      "word_count": 60,
+      "segment_id": "ch_009_seg_010"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "手机震了一下，是银行短信：",
+      "word_count": 13,
+      "segment_id": "ch_009_seg_011"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "system",
+      "speaker_name": "银行短信",
+      "text": "您尾号 4281 信用卡本期账单逾期，已进入催收流程。",
+      "word_count": 28,
+      "segment_id": "ch_009_seg_012",
+      "context": "text_message"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "紧接着又是一条：",
+      "word_count": 8,
+      "segment_id": "ch_009_seg_013"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "system",
+      "speaker_name": "银行短信",
+      "text": "您名下消费贷因风险评估调整，额度冻结。",
+      "word_count": 20,
+      "segment_id": "ch_009_seg_014",
+      "context": "text_message"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明的太阳穴突突跳。他突然想起沈知夏离婚那天留给他的纸：信用卡解绑、共同账户关闭。那时候他以为她只是\"走得干净\"。",
+      "word_count": 58,
+      "segment_id": "ch_009_seg_015"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "现在他才明白：她把所有能缓冲他风险的垫子，都抽走了。金融系统一旦嗅到味道，就会像鲨鱼一样围上来。",
+      "word_count": 48,
+      "segment_id": "ch_009_seg_016"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "电话响，是陌生号码。周启明接起，里面是机械的女声：",
+      "word_count": 24,
+      "segment_id": "ch_009_seg_017a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "system",
+      "speaker_name": "催收语音",
+      "text": "周先生，您名下贷款已逾期，请于今日十八点前——",
+      "word_count": 26,
+      "segment_id": "ch_009_seg_017b",
+      "emotion": "mechanical",
+      "context": "phone_call"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明直接挂断。",
+      "word_count": 8,
+      "segment_id": "ch_009_seg_018"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "第二个电话立刻打进来，换成了人的声音，语气更硬：",
+      "word_count": 24,
+      "segment_id": "ch_009_seg_019a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_006",
+      "speaker_name": "催收员",
+      "text": "周启明是吧？你欠的不是一两万。别装死。我们今天就去你父母那边——",
+      "word_count": 34,
+      "segment_id": "ch_009_seg_019b",
+      "emotion": "threatening",
+      "context": "phone_call"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明握紧手机，声音发哑：",
+      "word_count": 13,
+      "segment_id": "ch_009_seg_020a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "你们敢去我爸妈那，我——",
+      "word_count": 14,
+      "segment_id": "ch_009_seg_020b",
+      "emotion": "desperate",
+      "context": "phone_call"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "对方嗤笑：",
+      "word_count": 5,
+      "segment_id": "ch_009_seg_021a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_006",
+      "speaker_name": "催收员",
+      "text": "你能怎样？你现在还有什么？",
+      "word_count": 15,
+      "segment_id": "ch_009_seg_021b",
+      "emotion": "mocking",
+      "context": "phone_call"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "电话挂断。",
+      "word_count": 5,
+      "segment_id": "ch_009_seg_022"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明站在路边，忽然觉得自己像被扒光。不是钱被扒光，是\"能威胁别人\"的那层皮被扒光。",
+      "word_count": 42,
+      "segment_id": "ch_009_seg_023"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他冲回家，翻箱倒柜找合同、找借条、找一切能证明\"我没那么糟\"的东西。可屋里空得发响，柜子里只有他自己的衣服，抽屉里只有沈知夏留给他的那张纸。",
+      "word_count": 70,
+      "segment_id": "ch_009_seg_024"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他突然发疯一样去敲邻居的门，想借个打印机，想打一个\"澄清声明\"，想像以前做销售一样把话术说圆。",
+      "word_count": 47,
+      "segment_id": "ch_009_seg_025"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "门没开。",
+      "word_count": 4,
+      "segment_id": "ch_009_seg_026"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他敲得更用力，里面传来一声不耐烦的吼：",
+      "word_count": 19,
+      "segment_id": "ch_009_seg_027a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_007",
+      "speaker_name": "邻居",
+      "text": "别敲了！你们家那点事全楼都知道！",
+      "word_count": 18,
+      "segment_id": "ch_009_seg_027b",
+      "emotion": "annoyed"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明的手僵在半空。",
+      "word_count": 10,
+      "segment_id": "ch_009_seg_028"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他回到客厅，坐在沙发上，脑子里一片空白。手机里新闻推送跳出来——",
+      "word_count": 32,
+      "segment_id": "ch_009_seg_029"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "system",
+      "speaker_name": "新闻推送",
+      "text": "某医药企业销售费用合规问题引关注，涉事人员已停职调查。",
+      "word_count": 28,
+      "segment_id": "ch_009_seg_030",
+      "context": "news_headline"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "下面配了一张他进公司大门的背影图，不知道是谁拍的。评论区一片叫好：",
+      "word_count": 33,
+      "segment_id": "ch_009_seg_031a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "social_media",
+      "speaker_name": "网友评论",
+      "text": "查得好！",
+      "word_count": 5,
+      "segment_id": "ch_009_seg_031b",
+      "context": "social_media_comment"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "social_media",
+      "speaker_name": "网友评论",
+      "text": "这行业早该整治了！",
+      "word_count": 10,
+      "segment_id": "ch_009_seg_031c",
+      "context": "social_media_comment"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "social_media",
+      "speaker_name": "网友评论",
+      "text": "回扣害死人！",
+      "word_count": 6,
+      "segment_id": "ch_009_seg_031d",
+      "context": "social_media_comment"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明盯着屏幕，喉咙发紧。他想骂他们不懂，想骂他们站着说话不腰疼。",
+      "word_count": 33,
+      "segment_id": "ch_009_seg_032"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "可下一秒他又想起自己在民政局门口发的那条\"重新开始\"，想起朋友圈里那些\"恭喜自由\"。",
+      "word_count": 42,
+      "segment_id": "ch_009_seg_033"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "原来围观的人永远不缺，只缺下一个被围观的倒霉蛋。",
+      "word_count": 24,
+      "segment_id": "ch_009_seg_034"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "傍晚，母亲又打来电话，这一次声音低了很多，低得像怕被谁听见：",
+      "word_count": 30,
+      "segment_id": "ch_009_seg_035a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_004",
+      "speaker_name": "李桂芳",
+      "text": "启明……你爸单位也有人打电话了……你到底惹了什么？",
+      "word_count": 27,
+      "segment_id": "ch_009_seg_035b",
+      "emotion": "worried",
+      "context": "phone_call"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明喉咙发哑：",
+      "word_count": 8,
+      "segment_id": "ch_009_seg_036a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_001",
+      "speaker_name": "周启明",
+      "text": "妈，我没惹谁。我只是——",
+      "word_count": 14,
+      "segment_id": "ch_009_seg_036b",
+      "emotion": "defensive",
+      "context": "phone_call"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "母亲终于哭出来：",
+      "word_count": 8,
+      "segment_id": "ch_009_seg_037a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_id": "char_004",
+      "speaker_name": "李桂芳",
+      "text": "你只是啥？你只是觉得你能扛？你觉得你能骗过所有人？你把我们当什么了？你把你爸的脸——",
+      "word_count": 46,
+      "segment_id": "ch_009_seg_037b",
+      "emotion": "crying",
+      "context": "phone_call"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明听着那哭声，忽然觉得很累。",
+      "word_count": 16,
+      "segment_id": "ch_009_seg_038"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他想说\"我也难\"，想说\"我不是故意的\"，想说\"我也被逼的\"。可这些话一旦出口，就像在求饶。",
+      "word_count": 45,
+      "segment_id": "ch_009_seg_039"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "而他现在最怕的，就是求饶也没人听。",
+      "word_count": 17,
+      "segment_id": "ch_009_seg_040"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他挂断电话，盯着窗外的天一点点暗下去。城市的灯亮起来，像一张张冷眼。",
+      "word_count": 34,
+      "segment_id": "ch_009_seg_041"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "周启明忽然想起沈知夏说的那句\"我只是在结账\"。",
+      "word_count": 23,
+      "segment_id": "ch_009_seg_042"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "他以前觉得那句话狠。",
+      "word_count": 10,
+      "segment_id": "ch_009_seg_043"
+    },
+    {
+      "type": "narration",
+      "speaker_id": "narrator",
+      "text": "现在他才知道——那句话其实很公平。",
+      "word_count": 17,
+      "segment_id": "ch_009_seg_044"
+    }
+  ]
+}

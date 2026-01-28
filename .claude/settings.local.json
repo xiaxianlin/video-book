@@ -11,7 +11,13 @@
       "Bash(python3:*)",
       "Bash(chmod:*)",
       "Skill(attribute-dialogue)",
-      "Skill(prepare-casting)"
+      "Skill(prepare-casting)",
+      "Bash(find source/03_segmentation -name \"*.json\" -exec sh -c 'echo \"\"=== {} ===\"\" && jq -r \"\"if .chapters then \\\\\"\"Chapters: \\\\\\(.chapters | length\\)\\\\\"\" elif .total_scenes then \\\\\"\"Scenes: \\\\\\(.total_scenes\\)\\\\\"\" else \\\\\"\"Unknown structure\\\\\"\" end\"\" {}' ;)",
+      "Bash(git restore:*)",
+      "Bash(jq:*)",
+      "Bash(git checkout:*)",
+      "Bash(for:*)",
+      "Bash(do cat /Users/bytedance/projects/video-book/source/03_segmentation/ch_$i_attributed.json)"
     ]
   }
 }
