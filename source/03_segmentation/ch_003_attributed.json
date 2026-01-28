@@ -36,6 +36,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_006",
+      "speaker_name": "王海生",
       "text": "周总，坐吧。今天人多，流程走快点。",
       "word_count": 17,
       "segment_id": "ch_003_seg_003b",
@@ -54,6 +55,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_001",
+      "speaker_name": "周启明",
       "text": "王科，咱们合作两年了，你这话说得——",
       "word_count": 17,
       "segment_id": "ch_003_seg_004b",
@@ -72,6 +74,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_006",
+      "speaker_name": "王海生",
       "text": "别送了。现在都合规，烟就免了。你把资料先给审计老师看。",
       "word_count": 27,
       "segment_id": "ch_003_seg_005b",
@@ -135,6 +138,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_006",
+      "speaker_name": "王海生",
       "text": "沈老师。辛苦你跑一趟。我们这边也不想麻烦，但上面压得紧。",
       "word_count": 29,
       "segment_id": "ch_003_seg_011b",
@@ -153,6 +157,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
       "text": "按流程来就行。麻烦把合同、发票、验收、回款、招待报销的凭证都放桌上。",
       "word_count": 33,
       "segment_id": "ch_003_seg_012b",
@@ -180,6 +185,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_001",
+      "speaker_name": "周启明",
       "text": "知夏，这是工作，你别——",
       "word_count": 11,
       "segment_id": "ch_003_seg_014b",
@@ -198,6 +204,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
       "text": "周总，我叫沈知夏。你叫我沈老师也行。",
       "word_count": 17,
       "segment_id": "ch_003_seg_015b",
@@ -216,6 +223,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_006",
+      "speaker_name": "王海生",
       "text": "那我们开始。周总，你先说明一下你们这次续约方案。",
       "word_count": 24,
       "segment_id": "ch_003_seg_016b",
@@ -288,6 +296,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_001",
+      "speaker_name": "周启明",
       "text": "沈知夏，你这是——",
       "word_count": 8,
       "segment_id": "ch_003_seg_023b",
@@ -306,6 +315,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
       "text": "这是初筛。我们按你们公司提供的资料做的风险点梳理。你可以解释，也可以补充材料。解释不通的，我们会写进报告。",
       "word_count": 52,
       "segment_id": "ch_003_seg_024b",
@@ -324,6 +334,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_006",
+      "speaker_name": "王海生",
       "text": "周总，你解释一下吧。我们也为难，上面现在只看报告。",
       "word_count": 25,
       "segment_id": "ch_003_seg_025b",
@@ -342,6 +353,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_001",
+      "speaker_name": "周启明",
       "text": "我们的产品效果你们知道，价格也——",
       "word_count": 16,
       "segment_id": "ch_003_seg_026b",
@@ -360,6 +372,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_006",
+      "speaker_name": "王海生",
       "text": "价格先放后面。现在先说合规。你们招待费里，有一笔四万八，发票是餐饮，但那天医院没有人跟你们吃饭。你解释一下？",
       "word_count": 52,
       "segment_id": "ch_003_seg_027b",
@@ -414,6 +427,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_001",
+      "speaker_name": "周启明",
       "text": "你从哪拿到这些？",
       "word_count": 8,
       "segment_id": "ch_003_seg_032b",
@@ -432,6 +446,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
       "text": "你们公司配合审计提供的。还有，你们的审批系统会记录 IP 和设备。你觉得，这些算不算'可核查'？",
       "word_count": 47,
       "segment_id": "ch_003_seg_033b",
@@ -468,6 +483,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_006",
+      "speaker_name": "王海生",
       "text": "周总，你们公司到底怎么管的？这要是被上面查出来，我们采购科也要背责任。",
       "word_count": 35,
       "segment_id": "ch_003_seg_036b",
@@ -486,6 +502,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_001",
+      "speaker_name": "周启明",
       "text": "王科，这个……是误填。我们那天确实——",
       "word_count": 18,
       "segment_id": "ch_003_seg_037b",
@@ -504,6 +521,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
       "text": "误填一次可以。误填十几次，就不是误填了。",
       "word_count": 20,
       "segment_id": "ch_003_seg_038b",
@@ -522,6 +540,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_001",
+      "speaker_name": "周启明",
       "text": "你什么意思？",
       "word_count": 6,
       "segment_id": "ch_003_seg_039b",
@@ -558,6 +577,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_001",
+      "speaker_name": "周启明",
       "text": "你早就准备好了？",
       "word_count": 8,
       "segment_id": "ch_003_seg_042b",
@@ -585,6 +605,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
       "text": "我准备的不是你。我准备的是你做过的事。",
       "word_count": 19,
       "segment_id": "ch_003_seg_044b",
@@ -630,6 +651,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_001",
+      "speaker_name": "周启明",
       "text": "沈知夏，你非要把我逼死？",
       "word_count": 11,
       "segment_id": "ch_003_seg_048b",
@@ -648,6 +670,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
       "text": "我没逼你。你现在坐在这里，是因为你自己把路走成这样。",
       "word_count": 26,
       "segment_id": "ch_003_seg_049b",
@@ -666,6 +689,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_006",
+      "speaker_name": "王海生",
       "text": "周总，续约先暂停。你们这条线先接受内部复核。后续是否合作，看你们整改情况。",
       "word_count": 37,
       "segment_id": "ch_003_seg_050b",
@@ -684,6 +708,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_001",
+      "speaker_name": "周启明",
       "text": "王科！你不能这样！你知道我为这个项目——",
       "word_count": 19,
       "segment_id": "ch_003_seg_051b",
@@ -702,6 +727,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
       "text": "周启明。",
       "word_count": 4,
       "segment_id": "ch_003_seg_052b",
@@ -756,6 +782,7 @@
     {
       "type": "dialogue",
       "speaker_id": "char_002",
+      "speaker_name": "沈知夏",
       "text": "你还有两天。解释不清楚，你就按规则认输。",
       "word_count": 19,
       "segment_id": "ch_003_seg_057b",

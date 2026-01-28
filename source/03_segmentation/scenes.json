@@ -1,11 +1,12 @@
 {
-  "total_scenes": 15,
+  "total_scenes": 42,
   "total_chapters": 10,
-  "creation_date": "2026-01-27T10:30:00Z",
+  "creation_date": "2026-01-28T11:03:14.831044",
   "scene_splitting_criteria": {
-    "target_duration_seconds": 240,
-    "target_word_count_range": [450, 750],
-    "boundary_markers": [
+    "target_word_count": "450-750 words (3-5 minutes)",
+    "minimum_word_count": "300 words (2 minutes)",
+    "estimated_duration_formula": "word_count * 2.5 seconds for Chinese",
+    "split_triggers": [
       "location_change",
       "time_jump",
       "character_group_change",
@@ -17,56 +18,108 @@
       "chapter_id": "ch_001",
       "chapter_number": 1,
       "title": "离婚证到手",
-      "total_scenes": 3,
-      "total_segments": 43,
+      "total_scenes": 5,
+      "total_segments": 55,
       "scenes": [
         {
           "scene_id": "ch_001_scene_001",
           "scene_number": 1,
           "segment_range": {
             "start": "ch_001_seg_001",
-            "end": "ch_001_seg_018"
+            "end": "ch_001_seg_007"
           },
           "location": "民政局门口",
           "time_of_day": "白天",
-          "characters_present": ["char_001", "char_002"],
-          "emotion_atmosphere": "轻松→尴尬",
-          "estimated_word_count": 600,
-          "estimated_duration_seconds": 240,
-          "transition_type": "location_change",
-          "content_summary": "离婚手续完成，周启明发朋友圈庆祝自由，沈知夏冷静离开"
+          "characters_present": [
+            "narrator",
+            "char_001"
+          ],
+          "emotion_atmosphere": "轻松、得意",
+          "estimated_word_count": 152,
+          "estimated_duration_seconds": 380,
+          "transition_type": "opening",
+          "content_summary": "周启明拿到离婚证后在民政局门口发朋友圈，收到恭喜评论"
         },
         {
           "scene_id": "ch_001_scene_002",
           "scene_number": 2,
           "segment_range": {
-            "start": "ch_001_seg_019",
-            "end": "ch_001_seg_030"
+            "start": "ch_001_seg_008a",
+            "end": "ch_001_seg_020"
           },
-          "location": "公司附近小公寓",
+          "location": "民政局门口/台阶",
           "time_of_day": "白天",
-          "characters_present": ["char_001", "char_004"],
-          "emotion_atmosphere": "轻松→不安",
-          "estimated_word_count": 450,
-          "estimated_duration_seconds": 180,
-          "transition_type": "location_change",
-          "content_summary": "周启明去找情人庆祝，发现对方态度冷淡，开始感到不安"
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_004",
+            "char_002"
+          ],
+          "emotion_atmosphere": "紧张、对峙",
+          "estimated_word_count": 342,
+          "estimated_duration_seconds": 855,
+          "transition_type": "character_change",
+          "content_summary": "母亲李桂芳语音轰炸，周启明与沈知夏在民政局门口最后对话，沈知夏冷静回击"
         },
         {
           "scene_id": "ch_001_scene_003",
           "scene_number": 3,
           "segment_range": {
-            "start": "ch_001_seg_031",
+            "start": "ch_001_seg_021",
+            "end": "ch_001_seg_029"
+          },
+          "location": "公司附近小公寓",
+          "time_of_day": "晚上",
+          "characters_present": [
+            "narrator",
+            "char_001"
+          ],
+          "emotion_atmosphere": "空虚、不安",
+          "estimated_word_count": 280,
+          "estimated_duration_seconds": 700,
+          "transition_type": "location_change",
+          "content_summary": "周启明回到空荡荡的公寓，发现沈知夏已经搬走所有东西，留下一张冷静的纸条"
+        },
+        {
+          "scene_id": "ch_001_scene_004",
+          "scene_number": 4,
+          "segment_range": {
+            "start": "ch_001_seg_030a",
+            "end": "ch_001_seg_036"
+          },
+          "location": "公寓",
+          "time_of_day": "晚上",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "colleague"
+          ],
+          "emotion_atmosphere": "焦虑",
+          "estimated_word_count": 126,
+          "estimated_duration_seconds": 315,
+          "transition_type": "context_transition",
+          "content_summary": "周启明收到同事消息提醒明天早会，他试图说服自己离婚是对的"
+        },
+        {
+          "scene_id": "ch_001_scene_005",
+          "scene_number": 5,
+          "segment_range": {
+            "start": "ch_001_seg_037",
             "end": "ch_001_seg_043"
           },
-          "location": "卧室/床上",
-          "time_of_day": "晚上",
-          "characters_present": ["char_001"],
-          "emotion_atmosphere": "焦虑→恐慌",
-          "estimated_word_count": 400,
-          "estimated_duration_seconds": 160,
-          "transition_type": "time_jump",
-          "content_summary": "深夜收到公司审计通知，意识到前妻可能是项目负责人"
+          "location": "公寓床上",
+          "time_of_day": "深夜",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_006",
+            "char_003"
+          ],
+          "emotion_atmosphere": "震惊、恐慌",
+          "estimated_word_count": 163,
+          "estimated_duration_seconds": 408,
+          "transition_type": "crisis_trigger",
+          "content_summary": "周启明收到医院采购对接人消息，回款暂停，赵建成电话告知审计组进场，项目负责人是沈知夏"
         }
       ]
     },
@@ -74,40 +127,88 @@
       "chapter_id": "ch_002",
       "chapter_number": 2,
       "title": "她是项目负责人",
-      "total_scenes": 2,
-      "total_segments": 57,
+      "total_scenes": 4,
+      "total_segments": 85,
       "scenes": [
         {
           "scene_id": "ch_002_scene_001",
           "scene_number": 1,
           "segment_range": {
             "start": "ch_002_seg_001",
-            "end": "ch_002_seg_013"
+            "end": "ch_002_seg_009"
           },
-          "location": "家中/路上",
-          "time_of_day": "早上八点半",
-          "characters_present": ["char_001"],
-          "emotion_atmosphere": "焦虑→紧张",
-          "estimated_word_count": 300,
-          "estimated_duration_seconds": 120,
-          "transition_type": "location_change",
-          "content_summary": "周启明准备去公司，回忆前妻的审计师身份，感到不安"
+          "location": "车里/路上",
+          "time_of_day": "深夜",
+          "characters_present": [
+            "narrator",
+            "char_001"
+          ],
+          "emotion_atmosphere": "愤怒、不甘",
+          "estimated_word_count": 213,
+          "estimated_duration_seconds": 533,
+          "transition_type": "continuation",
+          "content_summary": "周启明震惊于沈知夏成为审计负责人，意识到医药线的灰色操作将被彻底审查"
         },
         {
           "scene_id": "ch_002_scene_002",
           "scene_number": 2,
           "segment_range": {
-            "start": "ch_002_seg_014",
-            "end": "ch_002_seg_057"
+            "start": "ch_002_seg_010",
+            "end": "ch_002_seg_020"
           },
-          "location": "公司办公室",
-          "time_of_day": "上午",
-          "characters_present": ["char_001", "char_002", "char_003"],
-          "emotion_atmosphere": "紧张→震惊→恐慌",
-          "estimated_word_count": 900,
-          "estimated_duration_seconds": 360,
+          "location": "公司走廊/赵建成办公室门口",
+          "time_of_day": "早上8:30",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "colleague",
+            "char_005"
+          ],
+          "emotion_atmosphere": "紧张、被孤立",
+          "estimated_word_count": 242,
+          "estimated_duration_seconds": 605,
+          "transition_type": "time_jump",
+          "content_summary": "周启明到公司，同事们议论纷纷，陈涛态度闪烁，法务和人事已在赵建成办公室等候"
+        },
+        {
+          "scene_id": "ch_002_scene_003",
+          "scene_number": 3,
+          "segment_range": {
+            "start": "ch_002_seg_021",
+            "end": "ch_002_seg_043"
+          },
+          "location": "赵建成办公室",
+          "time_of_day": "早上",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_003"
+          ],
+          "emotion_atmosphere": "压迫、绝望",
+          "estimated_word_count": 512,
+          "estimated_duration_seconds": 1280,
           "transition_type": "location_change",
-          "content_summary": "审计会议，确认前妻是项目负责人，她展示专业冷酷的一面"
+          "content_summary": "赵建成告知审计详情，周启明质疑为何是沈知夏，赵建成暗示这是针对性审计，周启明意识到沈知夏提前切割了所有关联"
+        },
+        {
+          "scene_id": "ch_002_scene_004",
+          "scene_number": 4,
+          "segment_range": {
+            "start": "ch_002_seg_044a",
+            "end": "ch_002_seg_050b"
+          },
+          "location": "赵建成办公室",
+          "time_of_day": "早上",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_003"
+          ],
+          "emotion_atmosphere": "震惊、被算计",
+          "estimated_word_count": 118,
+          "estimated_duration_seconds": 295,
+          "transition_type": "revelation",
+          "content_summary": "赵建成告知下午续约会沈知夏也会参加，周启明彻底意识到被设计"
         }
       ]
     },
@@ -115,24 +216,111 @@
       "chapter_id": "ch_003",
       "chapter_number": 3,
       "title": "续约会，她也在",
-      "total_scenes": 1,
-      "total_segments": 58,
+      "total_scenes": 5,
+      "total_segments": 84,
       "scenes": [
         {
           "scene_id": "ch_003_scene_001",
           "scene_number": 1,
           "segment_range": {
             "start": "ch_003_seg_001",
-            "end": "ch_003_seg_058"
+            "end": "ch_003_seg_010"
           },
-          "location": "医院采购会议室",
-          "time_of_day": "下午两点",
-          "characters_present": ["char_001", "char_002", "char_005", "char_006"],
-          "emotion_atmosphere": "紧张→尴尬→崩溃",
-          "estimated_word_count": 900,
-          "estimated_duration_seconds": 360,
-          "transition_type": "chapter_break",
-          "content_summary": "医院续约会议，前妻当众揭露周启明的违规操作，他彻底失控"
+          "location": "三甲医院采购会议室",
+          "time_of_day": "下午2点",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_006"
+          ],
+          "emotion_atmosphere": "紧张、不安",
+          "estimated_word_count": 184,
+          "estimated_duration_seconds": 460,
+          "transition_type": "location_change",
+          "content_summary": "周启明提前到达医院会议室，王海生态度冷淡，沈知夏进入会议室"
+        },
+        {
+          "scene_id": "ch_003_scene_002",
+          "scene_number": 2,
+          "segment_range": {
+            "start": "ch_003_seg_011a",
+            "end": "ch_003_seg_022"
+          },
+          "location": "医院会议室",
+          "time_of_day": "下午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_002",
+            "char_006"
+          ],
+          "emotion_atmosphere": "对峙、专业冷酷",
+          "estimated_word_count": 312,
+          "estimated_duration_seconds": 780,
+          "transition_type": "character_interaction",
+          "content_summary": "沈知夏展示风险点汇总表，周启明试图辩解但被专业话术压制"
+        },
+        {
+          "scene_id": "ch_003_scene_003",
+          "scene_number": 3,
+          "segment_range": {
+            "start": "ch_003_seg_023a",
+            "end": "ch_003_seg_035"
+          },
+          "location": "医院会议室",
+          "time_of_day": "下午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_002",
+            "char_006"
+          ],
+          "emotion_atmosphere": "被揭穿、恐慌",
+          "estimated_word_count": 298,
+          "estimated_duration_seconds": 745,
+          "transition_type": "escalation",
+          "content_summary": "沈知夏展示具体证据，包括四万八招待费的详细记录和审批流程，周启明意识到所有操作都被记录"
+        },
+        {
+          "scene_id": "ch_003_scene_004",
+          "scene_number": 4,
+          "segment_range": {
+            "start": "ch_003_seg_036a",
+            "end": "ch_003_seg_047"
+          },
+          "location": "医院会议室",
+          "time_of_day": "下午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_002",
+            "char_006"
+          ],
+          "emotion_atmosphere": "绝望、愤怒",
+          "estimated_word_count": 268,
+          "estimated_duration_seconds": 670,
+          "transition_type": "climax",
+          "content_summary": "沈知夏展示更多证据链，王海生宣布续约暂停，周启明情绪失控"
+        },
+        {
+          "scene_id": "ch_003_scene_005",
+          "scene_number": 5,
+          "segment_range": {
+            "start": "ch_003_seg_048a",
+            "end": "ch_003_seg_057b"
+          },
+          "location": "医院会议室",
+          "time_of_day": "下午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_002"
+          ],
+          "emotion_atmosphere": "冷酷、最后通牒",
+          "estimated_word_count": 178,
+          "estimated_duration_seconds": 445,
+          "transition_type": "conclusion",
+          "content_summary": "沈知夏递交48小时补充清单，冷静告知周启明按规则认输"
         }
       ]
     },
@@ -140,56 +328,107 @@
       "chapter_id": "ch_004",
       "chapter_number": 4,
       "title": "48 小时",
-      "total_scenes": 3,
-      "total_segments": 61,
+      "total_scenes": 5,
+      "total_segments": 100,
       "scenes": [
         {
           "scene_id": "ch_004_scene_001",
           "scene_number": 1,
           "segment_range": {
             "start": "ch_004_seg_001",
-            "end": "ch_004_seg_015"
+            "end": "ch_004_seg_012"
           },
-          "location": "路上/车里",
-          "time_of_day": "下午",
-          "characters_present": ["char_001", "char_003"],
-          "emotion_atmosphere": "愤怒→绝望",
-          "estimated_word_count": 350,
-          "estimated_duration_seconds": 140,
-          "transition_type": "location_change",
-          "content_summary": "周启明在车里接到老板电话，被要求48小时内补齐材料"
+          "location": "车里/路上",
+          "time_of_day": "下午/傍晚",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_003"
+          ],
+          "emotion_atmosphere": "窒息、被逼迫",
+          "estimated_word_count": 312,
+          "estimated_duration_seconds": 780,
+          "transition_type": "continuation",
+          "content_summary": "周启明在车里接到赵建成电话，被告知48小时期限和公司切割策略"
         },
         {
           "scene_id": "ch_004_scene_002",
           "scene_number": 2,
           "segment_range": {
-            "start": "ch_004_seg_016",
-            "end": "ch_004_seg_048"
+            "start": "ch_004_seg_013",
+            "end": "ch_004_seg_024"
           },
           "location": "陈涛家",
           "time_of_day": "晚上",
-          "characters_present": ["char_001", "char_007"],
-          "emotion_atmosphere": "焦虑→绝望",
-          "estimated_word_count": 800,
-          "estimated_duration_seconds": 320,
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_005"
+          ],
+          "emotion_atmosphere": "绝望、求助",
+          "estimated_word_count": 358,
+          "estimated_duration_seconds": 895,
           "transition_type": "location_change",
-          "content_summary": "周启明找陈涛求助补材料，发现无法补救"
+          "content_summary": "周启明去陈涛家求助补材料，陈涛害怕拒绝，周启明意识到医院关系网已经收口"
         },
         {
           "scene_id": "ch_004_scene_003",
           "scene_number": 3,
           "segment_range": {
-            "start": "ch_004_seg_049",
+            "start": "ch_004_seg_025a",
+            "end": "ch_004_seg_040"
+          },
+          "location": "陈涛家",
+          "time_of_day": "晚上",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_005"
+          ],
+          "emotion_atmosphere": "恐慌、无路可走",
+          "estimated_word_count": 348,
+          "estimated_duration_seconds": 870,
+          "transition_type": "escalation",
+          "content_summary": "周启明试图联系医院人员补签到，全部被拒，陈涛指出第三方公司问题，周启明意识到证据链已完整"
+        },
+        {
+          "scene_id": "ch_004_scene_004",
+          "scene_number": 4,
+          "segment_range": {
+            "start": "ch_004_seg_041",
+            "end": "ch_004_seg_048"
+          },
+          "location": "楼道/车里",
+          "time_of_day": "晚上",
+          "characters_present": [
+            "narrator",
+            "char_001"
+          ],
+          "emotion_atmosphere": "崩溃边缘",
+          "estimated_word_count": 113,
+          "estimated_duration_seconds": 283,
+          "transition_type": "transition",
+          "content_summary": "周启明想起共同账户和沈知夏的切割策略，冲出陈涛家拨打沈知夏电话"
+        },
+        {
+          "scene_id": "ch_004_scene_005",
+          "scene_number": 5,
+          "segment_range": {
+            "start": "ch_004_seg_049a",
             "end": "ch_004_seg_061"
           },
-          "location": "楼道口/电话",
+          "location": "楼道口",
           "time_of_day": "晚上",
-          "characters_present": ["char_001", "char_006"],
-          "emotion_atmosphere": "绝望→崩溃",
-          "estimated_word_count": 400,
-          "estimated_duration_seconds": 160,
-          "transition_type": "location_change",
-          "content_summary": "周启明打电话给医院采购主任求情，被拒绝"
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_002"
+          ],
+          "emotion_atmosphere": "绝望、被宣判",
+          "estimated_word_count": 369,
+          "estimated_duration_seconds": 923,
+          "transition_type": "confrontation",
+          "content_summary": "周启明与沈知夏电话对质，沈知夏冷静表示只是在结账，给他48小时解释机会，倒计时开始"
         }
       ]
     },
@@ -197,8 +436,8 @@
       "chapter_id": "ch_005",
       "chapter_number": 5,
       "title": "路被封死",
-      "total_scenes": 2,
-      "total_segments": 58,
+      "total_scenes": 4,
+      "total_segments": 95,
       "scenes": [
         {
           "scene_id": "ch_005_scene_001",
@@ -207,30 +446,81 @@
             "start": "ch_005_seg_001",
             "end": "ch_005_seg_023"
           },
-          "location": "车里/电话",
+          "location": "车里",
           "time_of_day": "清晨",
-          "characters_present": ["char_001", "char_007", "char_006"],
-          "emotion_atmosphere": "绝望→孤立",
-          "estimated_word_count": 550,
-          "estimated_duration_seconds": 220,
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_005"
+          ],
+          "emotion_atmosphere": "绝望、求助无门",
+          "estimated_word_count": 412,
+          "estimated_duration_seconds": 1030,
           "transition_type": "time_jump",
-          "content_summary": "周启明一夜未眠，打电话求助林哥和其他人，全部被拒绝"
+          "content_summary": "周启明一夜未睡，打电话给林哥求助，被告知审计期间无人敢帮，医院全面收口"
         },
         {
           "scene_id": "ch_005_scene_002",
           "scene_number": 2,
           "segment_range": {
-            "start": "ch_005_seg_024",
-            "end": "ch_005_seg_058"
+            "start": "ch_005_seg_024a",
+            "end": "ch_005_seg_028"
+          },
+          "location": "公司楼下/会议室",
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_006",
+            "char_008"
+          ],
+          "emotion_atmosphere": "紧张、被隔离",
+          "estimated_word_count": 158,
+          "estimated_duration_seconds": 395,
+          "transition_type": "location_change",
+          "content_summary": "周启明赶到公司，审计组已到场，人事阻止他上楼，会议室里沈知夏在做现场抽样"
+        },
+        {
+          "scene_id": "ch_005_scene_003",
+          "scene_number": 3,
+          "segment_range": {
+            "start": "ch_005_seg_029a",
+            "end": "ch_005_seg_046"
           },
           "location": "公司会议室",
-          "time_of_day": "早上",
-          "characters_present": ["char_001", "char_003"],
-          "emotion_atmosphere": "焦虑→被困",
-          "estimated_word_count": 700,
-          "estimated_duration_seconds": 280,
-          "transition_type": "location_change",
-          "content_summary": "公司会议，被迫签署停职通知，只剩两个选择：认输或被碾碎"
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_003",
+            "char_008"
+          ],
+          "emotion_atmosphere": "被围剿、绝望",
+          "estimated_word_count": 428,
+          "estimated_duration_seconds": 1070,
+          "transition_type": "confrontation",
+          "content_summary": "赵建成宣布停职通知，要求周启明签署声明，周启明意识到路被公司和沈知夏双面封死"
+        },
+        {
+          "scene_id": "ch_005_scene_004",
+          "scene_number": 4,
+          "segment_range": {
+            "start": "ch_005_seg_047a",
+            "end": "ch_005_seg_057"
+          },
+          "location": "公司会议室",
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_003",
+            "char_008"
+          ],
+          "emotion_atmosphere": "被迫选择、认输",
+          "estimated_word_count": 258,
+          "estimated_duration_seconds": 645,
+          "transition_type": "ultimatum",
+          "content_summary": "赵建成给出两个选择：配合审计个人背锅或不配合走最坏预案，周启明被迫接受现实"
         }
       ]
     },
@@ -238,24 +528,109 @@
       "chapter_id": "ch_006",
       "chapter_number": 6,
       "title": "堵她",
-      "total_scenes": 1,
-      "total_segments": 52,
+      "total_scenes": 5,
+      "total_segments": 84,
       "scenes": [
         {
           "scene_id": "ch_006_scene_001",
           "scene_number": 1,
           "segment_range": {
             "start": "ch_006_seg_001",
-            "end": "ch_006_seg_052"
+            "end": "ch_006_seg_008"
           },
-          "location": "公司走廊→沈知夏事务所",
-          "time_of_day": "早上",
-          "characters_present": ["char_001", "char_002"],
-          "emotion_atmosphere": "愤怒→绝望→清算",
-          "estimated_word_count": 900,
-          "estimated_duration_seconds": 360,
-          "transition_type": "chapter_break",
-          "content_summary": "周启明去前妻事务所对质，她展示准备好的证据文件，这是清算"
+          "location": "公司走廊/楼下",
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_007"
+          ],
+          "emotion_atmosphere": "愤怒、不甘",
+          "estimated_word_count": 163,
+          "estimated_duration_seconds": 408,
+          "transition_type": "continuation",
+          "content_summary": "周启明拿到停职通知后决定去沈知夏事务所堵她，试图逼她情绪波动"
+        },
+        {
+          "scene_id": "ch_006_scene_002",
+          "scene_number": 2,
+          "segment_range": {
+            "start": "ch_006_seg_009a",
+            "end": "ch_006_seg_017"
+          },
+          "location": "知夏审计事务所前台/电梯",
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_008",
+            "char_002"
+          ],
+          "emotion_atmosphere": "对峙、紧张",
+          "estimated_word_count": 228,
+          "estimated_duration_seconds": 570,
+          "transition_type": "location_change",
+          "content_summary": "前台阻拦周启明，沈知夏从电梯出来，周启明冲上去质问"
+        },
+        {
+          "scene_id": "ch_006_scene_003",
+          "scene_number": 3,
+          "segment_range": {
+            "start": "ch_006_seg_018a",
+            "end": "ch_006_seg_029"
+          },
+          "location": "事务所大厅",
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_002"
+          ],
+          "emotion_atmosphere": "激烈对峙",
+          "estimated_word_count": 298,
+          "estimated_duration_seconds": 745,
+          "transition_type": "escalation",
+          "content_summary": "周启明质问沈知夏是否在报复，沈知夏冷静回应是在保命和切割，周启明试图威胁她也有共同账户责任"
+        },
+        {
+          "scene_id": "ch_006_scene_004",
+          "scene_number": 4,
+          "segment_range": {
+            "start": "ch_006_seg_030a",
+            "end": "ch_006_seg_042"
+          },
+          "location": "事务所大厅",
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_002"
+          ],
+          "emotion_atmosphere": "震惊、被碾压",
+          "estimated_word_count": 358,
+          "estimated_duration_seconds": 895,
+          "transition_type": "revelation",
+          "content_summary": "沈知夏展示完整底稿，证明她早已做好留档，所有灰色资金都有清晰记录，周启明彻底崩溃"
+        },
+        {
+          "scene_id": "ch_006_scene_005",
+          "scene_number": 5,
+          "segment_range": {
+            "start": "ch_006_seg_043a",
+            "end": "ch_006_seg_051"
+          },
+          "location": "事务所大厅/电梯",
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_002"
+          ],
+          "emotion_atmosphere": "绝望、认清现实",
+          "estimated_word_count": 218,
+          "estimated_duration_seconds": 545,
+          "transition_type": "conclusion",
+          "content_summary": "沈知夏警告周启明不要闹否则递交所有证据，离开时留下最后一句话，周启明意识到这是清算不是吵架"
         }
       ]
     },
@@ -263,24 +638,89 @@
       "chapter_id": "ch_007",
       "chapter_number": 7,
       "title": "众叛亲离",
-      "total_scenes": 1,
-      "total_segments": 49,
+      "total_scenes": 4,
+      "total_segments": 80,
       "scenes": [
         {
           "scene_id": "ch_007_scene_001",
           "scene_number": 1,
           "segment_range": {
             "start": "ch_007_seg_001",
+            "end": "ch_007_seg_015"
+          },
+          "location": "车里",
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_004"
+          ],
+          "emotion_atmosphere": "崩溃、家庭压力",
+          "estimated_word_count": 398,
+          "estimated_duration_seconds": 995,
+          "transition_type": "continuation",
+          "content_summary": "周启明在车里接到母亲电话，家里被催收骚扰，母亲责怪他，父母只关心面子不关心他"
+        },
+        {
+          "scene_id": "ch_007_scene_002",
+          "scene_number": 2,
+          "segment_range": {
+            "start": "ch_007_seg_016",
+            "end": "ch_007_seg_024"
+          },
+          "location": "公司楼下",
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_005",
+            "char_006"
+          ],
+          "emotion_atmosphere": "被隔离、无助",
+          "estimated_word_count": 198,
+          "estimated_duration_seconds": 495,
+          "transition_type": "location_change",
+          "content_summary": "周启明被保安拦在公司楼下，赵建成和法务都不接电话，要求邮件留痕"
+        },
+        {
+          "scene_id": "ch_007_scene_003",
+          "scene_number": 3,
+          "segment_range": {
+            "start": "ch_007_seg_025a",
+            "end": "ch_007_seg_036"
+          },
+          "location": "公司楼下/电话中",
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_003"
+          ],
+          "emotion_atmosphere": "背叛、绝望",
+          "estimated_word_count": 268,
+          "estimated_duration_seconds": 670,
+          "transition_type": "betrayal",
+          "content_summary": "陈涛告知电脑被封无法补材料，公司要求所有人交材料自保，陈涛已经交出周启明的证据"
+        },
+        {
+          "scene_id": "ch_007_scene_004",
+          "scene_number": 4,
+          "segment_range": {
+            "start": "ch_007_seg_037",
             "end": "ch_007_seg_049"
           },
-          "location": "车里→父母家(电话)→公司门口→公司楼下花坛",
-          "time_of_day": "早上",
-          "characters_present": ["char_001"],
-          "emotion_atmosphere": "震惊→孤立→绝望",
-          "estimated_word_count": 900,
-          "estimated_duration_seconds": 360,
-          "transition_type": "chapter_break",
-          "content_summary": "母亲来电说有人上门讨债，被公司拒之门外，陈涛背叛，所有人脉崩塌"
+          "location": "公司楼下花坛",
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "social_media"
+          ],
+          "emotion_atmosphere": "孤立、认清现实",
+          "estimated_word_count": 268,
+          "estimated_duration_seconds": 670,
+          "transition_type": "realization",
+          "content_summary": "周启明看朋友圈评论从恭喜变成质疑，意识到所有人脉关系都建立在位置上，位置一失去就被抛弃"
         }
       ]
     },
@@ -288,24 +728,74 @@
       "chapter_id": "ch_008",
       "chapter_number": 8,
       "title": "报告落地",
-      "total_scenes": 1,
-      "total_segments": 41,
+      "total_scenes": 3,
+      "total_segments": 58,
       "scenes": [
         {
           "scene_id": "ch_008_scene_001",
           "scene_number": 1,
           "segment_range": {
             "start": "ch_008_seg_001",
+            "end": "ch_008_seg_010"
+          },
+          "location": "公司会议室",
+          "time_of_day": "48小时后",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_003",
+            "char_005",
+            "char_002"
+          ],
+          "emotion_atmosphere": "压抑、宣判",
+          "estimated_word_count": 268,
+          "estimated_duration_seconds": 670,
+          "transition_type": "time_jump",
+          "content_summary": "48小时期限到，周启明被叫回会议室，审计报告初稿完成，沈知夏坐在末端"
+        },
+        {
+          "scene_id": "ch_008_scene_002",
+          "scene_number": 2,
+          "segment_range": {
+            "start": "ch_008_seg_011",
+            "end": "ch_008_seg_031"
+          },
+          "location": "公司会议室",
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_003",
+            "char_002",
+            "char_006"
+          ],
+          "emotion_atmosphere": "绝望、被钉死",
+          "estimated_word_count": 598,
+          "estimated_duration_seconds": 1495,
+          "transition_type": "confrontation",
+          "content_summary": "赵建成宣读审计报告，所有问题集中于周启明个人，周启明试图反咬但被沈知夏用证据压制，内控指出个人账户异常"
+        },
+        {
+          "scene_id": "ch_008_scene_003",
+          "scene_number": 3,
+          "segment_range": {
+            "start": "ch_008_seg_032a",
             "end": "ch_008_seg_041"
           },
           "location": "公司会议室",
-          "time_of_day": "48小时最后一小时",
-          "characters_present": ["char_001", "char_002", "char_003"],
-          "emotion_atmosphere": "紧张→崩溃→认命",
-          "estimated_word_count": 800,
-          "estimated_duration_seconds": 320,
-          "transition_type": "time_jump",
-          "content_summary": "审计报告宣读，所有问题归于周启明个人，被迫签字离职"
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_003",
+            "char_005",
+            "char_002"
+          ],
+          "emotion_atmosphere": "认输、崩溃",
+          "estimated_word_count": 328,
+          "estimated_duration_seconds": 820,
+          "transition_type": "surrender",
+          "content_summary": "赵建成要求签字接受体面离职，否则移交材料，周启明最终签字，听见心里某个东西断裂"
         }
       ]
     },
@@ -313,24 +803,91 @@
       "chapter_id": "ch_009",
       "chapter_number": 9,
       "title": "崩盘",
-      "total_scenes": 1,
-      "total_segments": 44,
+      "total_scenes": 4,
+      "total_segments": 59,
       "scenes": [
         {
           "scene_id": "ch_009_scene_001",
           "scene_number": 1,
           "segment_range": {
             "start": "ch_009_seg_001",
+            "end": "ch_009_seg_010"
+          },
+          "location": "公司人事部/楼下",
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_005"
+          ],
+          "emotion_atmosphere": "麻木、被剥夺",
+          "estimated_word_count": 258,
+          "estimated_duration_seconds": 645,
+          "transition_type": "continuation",
+          "content_summary": "周启明办理离职手续，从周总变成周先生，收到费用清单包括违约金和整改成本分摊"
+        },
+        {
+          "scene_id": "ch_009_scene_002",
+          "scene_number": 2,
+          "segment_range": {
+            "start": "ch_009_seg_011",
+            "end": "ch_009_seg_023"
+          },
+          "location": "路边/家里",
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "system",
+            "char_006"
+          ],
+          "emotion_atmosphere": "崩溃、被围剿",
+          "estimated_word_count": 298,
+          "estimated_duration_seconds": 745,
+          "transition_type": "escalation",
+          "content_summary": "银行短信通知信用卡逾期和额度冻结，催收电话威胁去父母家，周启明意识到金融系统已围剿"
+        },
+        {
+          "scene_id": "ch_009_scene_003",
+          "scene_number": 3,
+          "segment_range": {
+            "start": "ch_009_seg_024",
+            "end": "ch_009_seg_034"
+          },
+          "location": "家里",
+          "time_of_day": "下午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_007",
+            "system",
+            "social_media"
+          ],
+          "emotion_atmosphere": "绝望、被围观",
+          "estimated_word_count": 338,
+          "estimated_duration_seconds": 845,
+          "transition_type": "public_exposure",
+          "content_summary": "周启明翻箱倒柜找证据，邻居拒绝开门，新闻推送曝光事件，网友评论一片叫好，周启明成为被围观的倒霉蛋"
+        },
+        {
+          "scene_id": "ch_009_scene_004",
+          "scene_number": 4,
+          "segment_range": {
+            "start": "ch_009_seg_035a",
             "end": "ch_009_seg_044"
           },
-          "location": "公司→家→邻居门口→客厅",
-          "time_of_day": "白天→傍晚",
-          "characters_present": ["char_001"],
-          "emotion_atmosphere": "麻木→崩溃→接受",
-          "estimated_word_count": 800,
-          "estimated_duration_seconds": 320,
-          "transition_type": "chapter_break",
-          "content_summary": "办理离职手续，收到催债通知，信用卡冻结，新闻曝光，母亲哭诉，彻底崩盘"
+          "location": "家里",
+          "time_of_day": "傍晚",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_004"
+          ],
+          "emotion_atmosphere": "疲惫、认清现实",
+          "estimated_word_count": 268,
+          "estimated_duration_seconds": 670,
+          "transition_type": "acceptance",
+          "content_summary": "母亲电话哭诉父亲单位也被骚扰，周启明想辩解但意识到求饶也没人听，终于理解沈知夏说的结账很公平"
         }
       ]
     },
@@ -338,24 +895,68 @@
       "chapter_id": "ch_010",
       "chapter_number": 10,
       "title": "认输",
-      "total_scenes": 1,
-      "total_segments": 38,
+      "total_scenes": 3,
+      "total_segments": 61,
       "scenes": [
         {
           "scene_id": "ch_010_scene_001",
           "scene_number": 1,
           "segment_range": {
             "start": "ch_010_seg_001",
+            "end": "ch_010_seg_018b"
+          },
+          "location": "知夏审计事务所会议室",
+          "time_of_day": "一周后",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_002"
+          ],
+          "emotion_atmosphere": "平静、认输",
+          "estimated_word_count": 428,
+          "estimated_duration_seconds": 1070,
+          "transition_type": "time_jump",
+          "content_summary": "周启明最后一次找沈知夏，询问是否报复，沈知夏解释是在保命和切割，周启明承认输了，沈知夏说她只是没再输"
+        },
+        {
+          "scene_id": "ch_010_scene_002",
+          "scene_number": 2,
+          "segment_range": {
+            "start": "ch_010_seg_019a",
+            "end": "ch_010_seg_029b"
+          },
+          "location": "事务所会议室/路口",
+          "time_of_day": "上午",
+          "characters_present": [
+            "narrator",
+            "char_001",
+            "char_002"
+          ],
+          "emotion_atmosphere": "告别、接受",
+          "estimated_word_count": 338,
+          "estimated_duration_seconds": 845,
+          "transition_type": "closure",
+          "content_summary": "周启明问是否还有可能，沈知夏干脆拒绝，周启明问是否后悔结婚，沈知夏说后悔太晚结账，周启明离开后回复催收会还钱"
+        },
+        {
+          "scene_id": "ch_010_scene_003",
+          "scene_number": 3,
+          "segment_range": {
+            "start": "ch_010_seg_030",
             "end": "ch_010_seg_038"
           },
-          "location": "沈知夏事务所→路口→地铁口",
-          "time_of_day": "一周后",
-          "characters_present": ["char_001", "char_002"],
-          "emotion_atmosphere": "认输→接受→新生",
-          "estimated_word_count": 700,
-          "estimated_duration_seconds": 280,
-          "transition_type": "time_jump",
-          "content_summary": "周启明最后一次找前妻，承认失败，她解释是在保命；他承诺还债，她继续新生活"
+          "location": "事务所会议室/地铁口",
+          "time_of_day": "下班时",
+          "characters_present": [
+            "narrator",
+            "char_002",
+            "char_005"
+          ],
+          "emotion_atmosphere": "平静、新生",
+          "estimated_word_count": 198,
+          "estimated_duration_seconds": 495,
+          "transition_type": "epilogue",
+          "content_summary": "沈知夏继续工作，同事问为何这么拼，她说图清净，下班买白雏菊，走进新生活，手机壁纸是干净的账本封面"
         }
       ]
     }

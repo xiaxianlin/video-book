@@ -17,7 +17,10 @@
       "Bash(jq:*)",
       "Bash(git checkout:*)",
       "Bash(for:*)",
-      "Bash(do cat /Users/bytedance/projects/video-book/source/03_segmentation/ch_$i_attributed.json)"
+      "Bash(do cat /Users/bytedance/projects/video-book/source/03_segmentation/ch_$i_attributed.json)",
+      "Skill(split-scenes)",
+      "mcp__web-reader__webReader",
+      "WebFetch(domain:platform.minimaxi.com)"
     ]
   }
 }
