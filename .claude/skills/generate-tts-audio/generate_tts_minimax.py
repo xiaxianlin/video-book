@@ -25,7 +25,7 @@ MINIMAX_API_URL = 'https://api.minimaxi.com/v1/t2a_v2'
 MINIMAX_API_URL_BACKUP = 'https://api-bj.minimaxi.com/v1/t2a_v2'
 
 # 项目路径配置
-PROJECT_ROOT = Path(__file__).parent
+PROJECT_ROOT = Path(__file__).parent.parent.parent.parent  # 回到项目根目录
 SEGMENTS_FILE = PROJECT_ROOT / 'source' / '03_segmentation' / 'tts_segments.json'
 OUTPUT_DIR = PROJECT_ROOT / 'source' / '04_tts_raw'
 VOICE_MAPPING_FILE = PROJECT_ROOT / 'source' / '02_casting' / 'voice_mapping.json'

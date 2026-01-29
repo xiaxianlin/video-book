@@ -1,0 +1,34 @@
+{
+  "creation_date": "2026-01-29T12:35:13.659836",
+  "total_segments": 542,
+  "total_duration_seconds": 6050.0,
+  "total_duration_minutes": 100.83,
+  "average_segment_duration": 11.16,
+  "chapters_processed": 10,
+  "segments_by_chapter": {
+    "ch_001": 35,
+    "ch_002": 62,
+    "ch_003": 55,
+    "ch_004": 75,
+    "ch_005": 71,
+    "ch_006": 67,
+    "ch_007": 60,
+    "ch_008": 38,
+    "ch_009": 33,
+    "ch_010": 46
+  },
+  "segments_by_speaker": {
+    "narrator": 269,
+    "char_001": 106,
+    "social_media": 3,
+    "char_004": 12,
+    "char_002": 51,
+    "colleague": 2,
+    "char_006": 15,
+    "char_003": 39,
+    "char_005": 31,
+    "char_007": 4,
+    "char_008": 6,
+    "system": 4
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "total_chapters": 10,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "ch_001",
+      "title": "离婚证到手",
+      "audio_file": "audio/chapters/ch_001.mp3",
+      "duration_seconds": 390.68,
+      "duration_formatted": "6m 30s",
+      "word_count": 1247,
+      "file_size_mb": 7.88,
+      "segment_count": 35
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "ch_002",
+      "title": "她是项目负责人",
+      "audio_file": "audio/chapters/ch_002.mp3",
+      "duration_seconds": 692.07,
+      "duration_formatted": "11m 32s",
+      "word_count": 1454,
+      "file_size_mb": 9.3,
+      "segment_count": 62
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "ch_003",
+      "title": "续约会，她也在",
+      "audio_file": "audio/chapters/ch_003.mp3",
+      "duration_seconds": 613.93,
+      "duration_formatted": "10m 13s",
+      "word_count": 1544,
+      "file_size_mb": 9.47,
+      "segment_count": 55
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "ch_004",
+      "title": "48 小时",
+      "audio_file": "audio/chapters/ch_004.mp3",
+      "duration_seconds": 837.18,
+      "duration_formatted": "13m 57s",
+      "word_count": 1548,
+      "file_size_mb": 10.09,
+      "segment_count": 75
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "ch_005",
+      "title": "路被封死",
+      "audio_file": "audio/chapters/ch_005.mp3",
+      "duration_seconds": 792.53,
+      "duration_formatted": "13m 12s",
+      "word_count": 1378,
+      "file_size_mb": 8.76,
+      "segment_count": 71
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "ch_006",
+      "title": "堵她",
+      "audio_file": "audio/chapters/ch_006.mp3",
+      "duration_seconds": 747.88,
+      "duration_formatted": "12m 27s",
+      "word_count": 1396,
+      "file_size_mb": 8.76,
+      "segment_count": 67
+    },
+    {
+      "chapter_number": 7,
+      "chapter_id": "ch_007",
+      "title": "众叛亲离",
+      "audio_file": "audio/chapters/ch_007.mp3",
+      "duration_seconds": 669.74,
+      "duration_formatted": "11m 9s",
+      "word_count": 1281,
+      "file_size_mb": 8.19,
+      "segment_count": 60
+    },
+    {
+      "chapter_number": 8,
+      "chapter_id": "ch_008",
+      "title": "报告落地",
+      "audio_file": "audio/chapters/ch_008.mp3",
+      "duration_seconds": 424.17,
+      "duration_formatted": "7m 4s",
+      "word_count": 1246,
+      "file_size_mb": 7.71,
+      "segment_count": 38
+    },
+    {
+      "chapter_number": 9,
+      "chapter_id": "ch_009",
+      "title": "崩盘",
+      "audio_file": "audio/chapters/ch_009.mp3",
+      "duration_seconds": 368.36,
+      "duration_formatted": "6m 8s",
+      "word_count": 1204,
+      "file_size_mb": 7.27,
+      "segment_count": 33
+    },
+    {
+      "chapter_number": 10,
+      "chapter_id": "ch_010",
+      "title": "认输",
+      "audio_file": "audio/chapters/ch_010.mp3",
+      "duration_seconds": 513.47,
+      "duration_formatted": "8m 33s",
+      "word_count": 977,
+      "file_size_mb": 6.31,
+      "segment_count": 46
+    }
+  ]
+}

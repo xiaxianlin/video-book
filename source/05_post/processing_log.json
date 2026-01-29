@@ -1,0 +1,75 @@
+{
+  "processing_date": "2026-01-29T14:48:45.752209",
+  "segments_processed": 542,
+  "segments_failed": 0,
+  "chapters_created": 10,
+  "processing_stats": {
+    "total_segments": 542,
+    "successful_segments": 542,
+    "skipped_segments": 0,
+    "total_output_size_mb": 84.63
+  },
+  "chapters": [
+    {
+      "success": true,
+      "chapter_id": "ch_001",
+      "output_file": "/Users/bytedance/projects/video-book/source/05_post/chapters/ch_001.mp3",
+      "file_size_mb": 7.88
+    },
+    {
+      "success": true,
+      "chapter_id": "ch_002",
+      "output_file": "/Users/bytedance/projects/video-book/source/05_post/chapters/ch_002.mp3",
+      "file_size_mb": 9.3
+    },
+    {
+      "success": true,
+      "chapter_id": "ch_003",
+      "output_file": "/Users/bytedance/projects/video-book/source/05_post/chapters/ch_003.mp3",
+      "file_size_mb": 9.47
+    },
+    {
+      "success": true,
+      "chapter_id": "ch_004",
+      "output_file": "/Users/bytedance/projects/video-book/source/05_post/chapters/ch_004.mp3",
+      "file_size_mb": 10.09
+    },
+    {
+      "success": true,
+      "chapter_id": "ch_005",
+      "output_file": "/Users/bytedance/projects/video-book/source/05_post/chapters/ch_005.mp3",
+      "file_size_mb": 8.76
+    },
+    {
+      "success": true,
+      "chapter_id": "ch_006",
+      "output_file": "/Users/bytedance/projects/video-book/source/05_post/chapters/ch_006.mp3",
+      "file_size_mb": 8.76
+    },
+    {
+      "success": true,
+      "chapter_id": "ch_007",
+      "output_file": "/Users/bytedance/projects/video-book/source/05_post/chapters/ch_007.mp3",
+      "file_size_mb": 8.19
+    },
+    {
+      "success": true,
+      "chapter_id": "ch_008",
+      "output_file": "/Users/bytedance/projects/video-book/source/05_post/chapters/ch_008.mp3",
+      "file_size_mb": 7.71
+    },
+    {
+      "success": true,
+      "chapter_id": "ch_009",
+      "output_file": "/Users/bytedance/projects/video-book/source/05_post/chapters/ch_009.mp3",
+      "file_size_mb": 7.27
+    },
+    {
+      "success": true,
+      "chapter_id": "ch_010",
+      "output_file": "/Users/bytedance/projects/video-book/source/05_post/chapters/ch_010.mp3",
+      "file_size_mb": 6.31
+    }
+  ],
+  "failed_segments": []
+}

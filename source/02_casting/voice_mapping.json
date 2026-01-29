@@ -4,16 +4,17 @@
   "tts_provider": "minimax",
   "voice_assignments": {
     "narrator": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
-    "char_001": "Chinese (Mandarin)_Lyrical_Voice",
-    "char_002": "Chinese (Mandarin)_Graceful_Lady",
-    "char_003": "Chinese (Mandarin)_Persuasive_Man",
-    "char_004": "Chinese (Mandarin)_Mature_Woman",
-    "char_005": "Chinese (Mandarin)_Steady_Man",
-    "char_006": "Chinese (Mandarin)_Professional_Man",
-    "char_007": "Chinese (Mandarin)_Young_Woman",
-    "char_008": "Chinese (Mandarin)_Neutral_Voice",
-    "social_media": "Chinese (Mandarin)_Young_Woman",
-    "system": "Chinese (Mandarin)_Neutral_Voice"
+    "char_001": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+    "char_002": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+    "char_003": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+    "char_004": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+    "char_005": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+    "char_006": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+    "char_007": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+    "char_008": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+    "social_media": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+    "system": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+    "colleague": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85"
   },
   "character_descriptions": {
     "narrator": "旁白 - 中性、专业的叙述声音",
@@ -26,7 +27,8 @@
     "char_007": "其他女性角色",
     "char_008": "其他中性角色",
     "social_media": "社交媒体评论",
-    "system": "系统消息"
+    "system": "系统消息",
+    "colleague": "同事"
   },
   "notes": [
     "音色ID可以从 MiniMax 平台的音色管理页面获取",

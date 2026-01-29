@@ -1,0 +1,103 @@
+{
+  "project": {
+    "name": "audiobook_project",
+    "version": "1.0.0",
+    "generation_date": "2026-01-29T15:13:46.564714",
+    "pipeline_version": "v1.0"
+  },
+  "source": {
+    "input_file": "input/source.md",
+    "total_chapters": 10,
+    "total_word_count": 13275
+  },
+  "audio": {
+    "total_duration_seconds": 6050.0,
+    "total_duration_formatted": "1h 40m 50s",
+    "format": "MP3",
+    "bitrate": "192kbps",
+    "channels": "mono",
+    "sample_rate": "32000Hz",
+    "loudness_lufs": -18,
+    "true_peak_dbtp": -1.0
+  },
+  "production": {
+    "tts_provider": "minimax",
+    "total_segments": 542,
+    "target_loudness_lufs": -18,
+    "characters_count": 12
+  },
+  "characters": [
+    {
+      "character_id": "narrator",
+      "name": "旁白 - 中性、专业的叙述声音",
+      "voice": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+      "total_segments": 269
+    },
+    {
+      "character_id": "char_001",
+      "name": "周启明 - 男主角，30多岁，商业人士",
+      "voice": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+      "total_segments": 106
+    },
+    {
+      "character_id": "char_002",
+      "name": "沈知夏 - 女主角，前妻，审计师，冷静专业",
+      "voice": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+      "total_segments": 51
+    },
+    {
+      "character_id": "char_003",
+      "name": "赵建成 - 周启明的老板",
+      "voice": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+      "total_segments": 39
+    },
+    {
+      "character_id": "char_004",
+      "name": "李桂芳 - 周启明的母亲",
+      "voice": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+      "total_segments": 12
+    },
+    {
+      "character_id": "char_005",
+      "name": "陈涛/林哥 - 同事/朋友",
+      "voice": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+      "total_segments": 31
+    },
+    {
+      "character_id": "char_006",
+      "name": "王海生 - 采购科长",
+      "voice": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+      "total_segments": 15
+    },
+    {
+      "character_id": "char_007",
+      "name": "其他女性角色",
+      "voice": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+      "total_segments": 4
+    },
+    {
+      "character_id": "char_008",
+      "name": "其他中性角色",
+      "voice": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+      "total_segments": 6
+    },
+    {
+      "character_id": "social_media",
+      "name": "社交媒体评论",
+      "voice": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+      "total_segments": 3
+    },
+    {
+      "character_id": "system",
+      "name": "系统消息",
+      "voice": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+      "total_segments": 4
+    },
+    {
+      "character_id": "colleague",
+      "name": "同事",
+      "voice": "moss_audio_ce44fc67-7ce3-11f0-8de5-96e35d26fb85",
+      "total_segments": 2
+    }
+  ]
+}

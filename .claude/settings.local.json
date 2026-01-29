@@ -20,7 +20,24 @@
       "Bash(do cat /Users/bytedance/projects/video-book/source/03_segmentation/ch_$i_attributed.json)",
       "Skill(split-scenes)",
       "mcp__web-reader__webReader",
-      "WebFetch(domain:platform.minimaxi.com)"
+      "WebFetch(domain:platform.minimaxi.com)",
+      "Skill(build-segments)",
+      "Skill(generate-tts-audio)",
+      "Bash(source:*)",
+      "Bash(if [ -z \"$MINIMAX_API_KEY\" ])",
+      "Bash(then echo \"Error: MINIMAX_API_KEY not set\")",
+      "Bash(exit:*)",
+      "Bash(else echo \"✓ MINIMAX_API_KEY is set\")",
+      "Bash(fi:*)",
+      "Bash(if:*)",
+      "Bash(then echo \"Error: TTS segments file not found\")",
+      "Bash(else echo \"✓ TTS segments file exists\")",
+      "Bash(export MINIMAX_API_KEY)",
+      "Bash(tee:*)",
+      "Skill(postprocess-audio)",
+      "Bash(ffmpeg -version)",
+      "Bash(ffmpeg:*)",
+      "Skill(package-release)"
     ]
   }
 }

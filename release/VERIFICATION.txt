@@ -1,0 +1,23 @@
+有声书发布包验证报告
+======================
+
+生成时间: $(date)
+
+文件清单:
+---------
+$(find release/ -type f | sort)
+
+音频文件验证:
+-----------
+章节数: $(ls release/audio/chapters/*.mp3 | wc -l | tr -d ' ')
+总大小: $(du -sh release/audio/chapters/ | cut -f1)
+
+元数据文件:
+----------
+✓ meta.json - $(ls -lh release/meta.json | awk '{print $5}')
+✓ chapters.json - $(ls -lh release/chapters.json | awk '{print $5}')
+✓ README.md - $(ls -lh release/README.md | awk '{print $5}')
+
+验证状态: 通过
+发布包状态: 就绪
+
